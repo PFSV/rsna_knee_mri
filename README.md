@@ -1,3 +1,2 @@
-# rsna_knee_mri
-https://www.rsna.org/artificial-intelligence/ai-image-challenge/knee-mri-ai-challenge
-.
+# 참고 자료
+https://www.kaggle.com/competitions/rsna-knee-abnormality-detection/discussion/733932
