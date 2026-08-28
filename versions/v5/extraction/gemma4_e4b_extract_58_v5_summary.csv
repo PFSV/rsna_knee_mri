@@ -1,0 +1,13 @@
+﻿target,reports,gold_positive,explicit_positive,explicit_negative,indeterminate,direct_not_mentioned,related_positive,related_negative,final_not_mentioned,final_positive_vs_gold_0,final_negative_vs_gold_1,invalid_direct_evidence,invalid_related_evidence
+ACL,58,24,21,22,11,4,0,0,4,3,0,0,0
+Baker's,58,12,16,11,0,31,0,0,31,5,0,0,0
+Contusion,58,19,28,15,0,15,0,0,15,13,2,0,0
+Effusion,58,35,50,5,0,3,0,0,3,16,0,0,0
+Fracture,58,18,14,11,2,31,0,0,31,3,1,0,0
+Lateral Meniscus,58,23,20,22,6,10,0,0,10,4,3,0,0
+Lateral OA,58,11,10,3,0,45,0,0,45,3,0,0,0
+MCL,58,9,16,32,1,9,0,0,9,7,0,0,0
+Medial Meniscus,58,26,27,22,3,6,0,0,6,3,0,0,0
+Medial OA,58,15,17,14,1,26,0,0,26,4,0,0,0
+PF OA,58,21,19,12,1,26,0,0,26,6,0,0,0
+Synovitis,58,27,17,1,0,40,0,0,40,4,0,0,0

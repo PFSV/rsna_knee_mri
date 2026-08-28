@@ -1,0 +1,700 @@
+﻿source_index,StudyInstanceUID,report_language,target,gold_label,llm_status,llm_binary,comparison,evidence,evidence_quote_valid,related_findings,model,elapsed_seconds
+29,1.2.826.0.1.3680043.8.498.10095687747295410396510538520594649149,Spanish,ACL,0,explicit_negative,0.0,direct_agreement,Ligamentos cruzados y colaterales dentro de límites normales.,True,,gemma4:e4b,139.192
+29,1.2.826.0.1.3680043.8.498.10095687747295410396510538520594649149,Spanish,Baker's,0,explicit_negative,0.0,direct_agreement,No hay quistes poplíteos patológicos.,True,,gemma4:e4b,139.192
+29,1.2.826.0.1.3680043.8.498.10095687747295410396510538520594649149,Spanish,Contusion,0,explicit_negative,0.0,direct_agreement,No hay alteraciones de señal significativas de la médula ósea.,True,,gemma4:e4b,139.192
+29,1.2.826.0.1.3680043.8.498.10095687747295410396510538520594649149,Spanish,Effusion,1,explicit_positive,1.0,direct_agreement,Leve derrame articular.,True,,gemma4:e4b,139.192
+29,1.2.826.0.1.3680043.8.498.10095687747295410396510538520594649149,Spanish,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,139.192
+29,1.2.826.0.1.3680043.8.498.10095687747295410396510538520594649149,Spanish,Lateral Meniscus,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Amputación marginal del cuerpo del menisco lateral.,True,,gemma4:e4b,139.192
+29,1.2.826.0.1.3680043.8.498.10095687747295410396510538520594649149,Spanish,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,139.192
+29,1.2.826.0.1.3680043.8.498.10095687747295410396510538520594649149,Spanish,MCL,0,explicit_negative,0.0,direct_agreement,Ligamentos cruzados y colaterales dentro de límites normales.,True,,gemma4:e4b,139.192
+29,1.2.826.0.1.3680043.8.498.10095687747295410396510538520594649149,Spanish,Medial Meniscus,0,explicit_negative,0.0,direct_agreement,"Menisco medial de morfología y señal conservada, sin signos de rotura.",True,,gemma4:e4b,139.192
+29,1.2.826.0.1.3680043.8.498.10095687747295410396510538520594649149,Spanish,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,139.192
+29,1.2.826.0.1.3680043.8.498.10095687747295410396510538520594649149,Spanish,PF OA,1,explicit_positive,1.0,direct_agreement,Condropatía focal grado 4 del aspecto inferior de la vertiente medial de la tróclea femoral .,True,,gemma4:e4b,139.192
+29,1.2.826.0.1.3680043.8.498.10095687747295410396510538520594649149,Spanish,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,139.192
+63,1.2.826.0.1.3680043.8.498.10170898615867673028696505248839028269,English,ACL,0,explicit_negative,0.0,direct_agreement,ACL is intact.,True,,gemma4:e4b,73.291
+63,1.2.826.0.1.3680043.8.498.10170898615867673028696505248839028269,English,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,73.291
+63,1.2.826.0.1.3680043.8.498.10170898615867673028696505248839028269,English,Contusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,"Osteochondral fracture at lateral patellar facet, about 8x12mm.",True,,gemma4:e4b,73.291
+63,1.2.826.0.1.3680043.8.498.10170898615867673028696505248839028269,English,Effusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Moderate joint effusion,True,,gemma4:e4b,73.291
+63,1.2.826.0.1.3680043.8.498.10170898615867673028696505248839028269,English,Fracture,0,explicit_positive,1.0,explicit_positive_vs_gold_0,No fracture is seen.,True,,gemma4:e4b,73.291
+63,1.2.826.0.1.3680043.8.498.10170898615867673028696505248839028269,English,Lateral Meniscus,1,explicit_positive,1.0,direct_agreement,Horizontal tear at anterior horn of the lateral meniscus is noted.,True,,gemma4:e4b,73.291
+63,1.2.826.0.1.3680043.8.498.10170898615867673028696505248839028269,English,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,73.291
+63,1.2.826.0.1.3680043.8.498.10170898615867673028696505248839028269,English,MCL,0,explicit_negative,0.0,direct_agreement,The MCL is intact.,True,,gemma4:e4b,73.291
+63,1.2.826.0.1.3680043.8.498.10170898615867673028696505248839028269,English,Medial Meniscus,0,explicit_negative,0.0,direct_agreement,Medial meniscus is not torn.,True,,gemma4:e4b,73.291
+63,1.2.826.0.1.3680043.8.498.10170898615867673028696505248839028269,English,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,73.291
+63,1.2.826.0.1.3680043.8.498.10170898615867673028696505248839028269,English,PF OA,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,73.291
+63,1.2.826.0.1.3680043.8.498.10170898615867673028696505248839028269,English,Synovitis,1,explicit_positive,1.0,direct_agreement,Chronic reactive synovitis,True,,gemma4:e4b,73.291
+109,1.2.826.0.1.3680043.8.498.10306159113324811538703788080836752052,English,ACL,0,explicit_negative,0.0,direct_agreement,Anterior cruciate ligament (ACL): Normal with both bundles intact.,True,,gemma4:e4b,91.476
+109,1.2.826.0.1.3680043.8.498.10306159113324811538703788080836752052,English,Baker's,0,explicit_negative,0.0,direct_agreement,No Baker's cyst.,True,,gemma4:e4b,91.476
+109,1.2.826.0.1.3680043.8.498.10306159113324811538703788080836752052,English,Contusion,0,explicit_negative,0.0,direct_agreement,No acute fracture or bone bruise.,True,,gemma4:e4b,91.476
+109,1.2.826.0.1.3680043.8.498.10306159113324811538703788080836752052,English,Effusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Small joint effusion.,True,,gemma4:e4b,91.476
+109,1.2.826.0.1.3680043.8.498.10306159113324811538703788080836752052,English,Fracture,0,explicit_negative,0.0,direct_agreement,No acute fracture or bone bruise.,True,,gemma4:e4b,91.476
+109,1.2.826.0.1.3680043.8.498.10306159113324811538703788080836752052,English,Lateral Meniscus,0,explicit_negative,0.0,direct_agreement,Degenerative signal throughout the lateral meniscus without surfacing tear.,True,,gemma4:e4b,91.476
+109,1.2.826.0.1.3680043.8.498.10306159113324811538703788080836752052,English,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,91.476
+109,1.2.826.0.1.3680043.8.498.10306159113324811538703788080836752052,English,MCL,0,explicit_negative,0.0,direct_agreement,Medial collateral ligament (MCL): Normal.,True,,gemma4:e4b,91.476
+109,1.2.826.0.1.3680043.8.498.10306159113324811538703788080836752052,English,Medial Meniscus,1,explicit_positive,1.0,direct_agreement,"Extensive complete tearing of the body, posterior horn, and posterior root medial meniscus with severe extrusion.",True,,gemma4:e4b,91.476
+109,1.2.826.0.1.3680043.8.498.10306159113324811538703788080836752052,English,Medial OA,1,explicit_positive,1.0,direct_agreement,Tricompartmental osteoarthritis worse in the medial compartment.,True,,gemma4:e4b,91.476
+109,1.2.826.0.1.3680043.8.498.10306159113324811538703788080836752052,English,PF OA,1,explicit_positive,1.0,direct_agreement,Tricompartmental osteoarthritis worse in the medial compartment.,True,,gemma4:e4b,91.476
+109,1.2.826.0.1.3680043.8.498.10306159113324811538703788080836752052,English,Synovitis,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,91.476
+445,1.2.826.0.1.3680043.8.498.11287937729196958426538087439102017580,English,ACL,0,explicit_negative,0.0,direct_agreement,"There is no increased intensity in the ACL, MCL and LCL, it appears to be normal",True,,gemma4:e4b,75.31
+445,1.2.826.0.1.3680043.8.498.11287937729196958426538087439102017580,English,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,75.31
+445,1.2.826.0.1.3680043.8.498.11287937729196958426538087439102017580,English,Contusion,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,75.31
+445,1.2.826.0.1.3680043.8.498.11287937729196958426538087439102017580,English,Effusion,1,explicit_positive,1.0,direct_agreement,massive joint effusion,True,,gemma4:e4b,75.31
+445,1.2.826.0.1.3680043.8.498.11287937729196958426538087439102017580,English,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,75.31
+445,1.2.826.0.1.3680043.8.498.11287937729196958426538087439102017580,English,Lateral Meniscus,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,75.31
+445,1.2.826.0.1.3680043.8.498.11287937729196958426538087439102017580,English,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,75.31
+445,1.2.826.0.1.3680043.8.498.11287937729196958426538087439102017580,English,MCL,0,explicit_negative,0.0,direct_agreement,"There is no increased intensity in the ACL, MCL and LCL, it appears to be normal",True,,gemma4:e4b,75.31
+445,1.2.826.0.1.3680043.8.498.11287937729196958426538087439102017580,English,Medial Meniscus,0,explicit_negative,0.0,direct_agreement,"There is no abnormal intensity or articular surface disrupt in the medial meniscus, It appears to be normal",True,,gemma4:e4b,75.31
+445,1.2.826.0.1.3680043.8.498.11287937729196958426538087439102017580,English,Medial OA,0,explicit_positive,1.0,explicit_positive_vs_gold_0,knee arthritis with hoffitis noted,True,,gemma4:e4b,75.31
+445,1.2.826.0.1.3680043.8.498.11287937729196958426538087439102017580,English,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,75.31
+445,1.2.826.0.1.3680043.8.498.11287937729196958426538087439102017580,English,Synovitis,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Synovitis of left knee,True,,gemma4:e4b,75.31
+470,1.2.826.0.1.3680043.8.498.11382021393803389951964005983002209238,English,ACL,1,explicit_positive,1.0,direct_agreement,"complete tear of the anterior cruciate ligament, at mid substance.",True,,gemma4:e4b,72.689
+470,1.2.826.0.1.3680043.8.498.11382021393803389951964005983002209238,English,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,72.689
+470,1.2.826.0.1.3680043.8.498.11382021393803389951964005983002209238,English,Contusion,0,explicit_negative,0.0,direct_agreement,no fracture or bone contusion.,True,,gemma4:e4b,72.689
+470,1.2.826.0.1.3680043.8.498.11382021393803389951964005983002209238,English,Effusion,0,explicit_negative,0.0,direct_agreement,No knee effusion is present.,True,,gemma4:e4b,72.689
+470,1.2.826.0.1.3680043.8.498.11382021393803389951964005983002209238,English,Fracture,0,explicit_negative,0.0,direct_agreement,no fracture or bone contusion.,True,,gemma4:e4b,72.689
+470,1.2.826.0.1.3680043.8.498.11382021393803389951964005983002209238,English,Lateral Meniscus,0,explicit_negative,0.0,direct_agreement,the meniscus is not torn,True,,gemma4:e4b,72.689
+470,1.2.826.0.1.3680043.8.498.11382021393803389951964005983002209238,English,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,72.689
+470,1.2.826.0.1.3680043.8.498.11382021393803389951964005983002209238,English,MCL,0,explicit_negative,0.0,direct_agreement,The medial and lateral collateral ligament complexes are intact.,True,,gemma4:e4b,72.689
+470,1.2.826.0.1.3680043.8.498.11382021393803389951964005983002209238,English,Medial Meniscus,1,explicit_positive,1.0,direct_agreement,longitudinal vertical tear at the body and posterior horn of the medial meniscus.,True,,gemma4:e4b,72.689
+470,1.2.826.0.1.3680043.8.498.11382021393803389951964005983002209238,English,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,72.689
+470,1.2.826.0.1.3680043.8.498.11382021393803389951964005983002209238,English,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,72.689
+470,1.2.826.0.1.3680043.8.498.11382021393803389951964005983002209238,English,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,72.689
+533,1.2.826.0.1.3680043.8.498.11548045715264151632153040089882701935,English,ACL,0,explicit_positive,1.0,explicit_positive_vs_gold_0,"Interstitial tear of the anterior cruciate ligament, at mid substance.",True,,gemma4:e4b,73.821
+533,1.2.826.0.1.3680043.8.498.11548045715264151632153040089882701935,English,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,73.821
+533,1.2.826.0.1.3680043.8.498.11548045715264151632153040089882701935,English,Contusion,1,explicit_negative,0.0,explicit_negative_vs_gold_1,There is no fracture or bone contusion.,True,,gemma4:e4b,73.821
+533,1.2.826.0.1.3680043.8.498.11548045715264151632153040089882701935,English,Effusion,1,explicit_positive,1.0,direct_agreement,Some amount of right knee effusion with hemarthrosis is present.,True,,gemma4:e4b,73.821
+533,1.2.826.0.1.3680043.8.498.11548045715264151632153040089882701935,English,Fracture,0,explicit_negative,0.0,direct_agreement,There is no fracture or bone contusion.,True,,gemma4:e4b,73.821
+533,1.2.826.0.1.3680043.8.498.11548045715264151632153040089882701935,English,Lateral Meniscus,0,explicit_positive,1.0,explicit_positive_vs_gold_0,complex tear (main radial and longitudinal vertical component) at the posterior horn of the lateral meniscus,True,,gemma4:e4b,73.821
+533,1.2.826.0.1.3680043.8.498.11548045715264151632153040089882701935,English,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,73.821
+533,1.2.826.0.1.3680043.8.498.11548045715264151632153040089882701935,English,MCL,0,explicit_negative,0.0,direct_agreement,The medial collateral ligament complexes are intact.,True,,gemma4:e4b,73.821
+533,1.2.826.0.1.3680043.8.498.11548045715264151632153040089882701935,English,Medial Meniscus,0,explicit_negative,0.0,direct_agreement,the meniscus is not torn,True,,gemma4:e4b,73.821
+533,1.2.826.0.1.3680043.8.498.11548045715264151632153040089882701935,English,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,73.821
+533,1.2.826.0.1.3680043.8.498.11548045715264151632153040089882701935,English,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,73.821
+533,1.2.826.0.1.3680043.8.498.11548045715264151632153040089882701935,English,Synovitis,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,73.821
+537,1.2.826.0.1.3680043.8.498.11557620559191469069130827959098335840,Spanish,ACL,1,explicit_positive,1.0,direct_agreement,Rotura espesor y ancho total del LCA.,True,,gemma4:e4b,86.387
+537,1.2.826.0.1.3680043.8.498.11557620559191469069130827959098335840,Spanish,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,86.387
+537,1.2.826.0.1.3680043.8.498.11557620559191469069130827959098335840,Spanish,Contusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,discreto edema óseo del aspecto posterior de platillo tibial lateral.,True,,gemma4:e4b,86.387
+537,1.2.826.0.1.3680043.8.498.11557620559191469069130827959098335840,Spanish,Effusion,1,explicit_positive,1.0,direct_agreement,"Leve a moderado derrame articular, probablemente hemartrosis",True,,gemma4:e4b,86.387
+537,1.2.826.0.1.3680043.8.498.11557620559191469069130827959098335840,Spanish,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,86.387
+537,1.2.826.0.1.3680043.8.498.11557620559191469069130827959098335840,Spanish,Lateral Meniscus,1,explicit_positive,1.0,direct_agreement,"Menisco lateral con pequeña rotura radial incompleta de la unión del cuerno posterior con el cuerpo, sin desplazamiento de segmentos.",True,,gemma4:e4b,86.387
+537,1.2.826.0.1.3680043.8.498.11557620559191469069130827959098335840,Spanish,Lateral OA,1,explicit_positive,1.0,direct_agreement,Condropatía lesiones grado 3 del compartimento femorotibial lateral,True,,gemma4:e4b,86.387
+537,1.2.826.0.1.3680043.8.498.11557620559191469069130827959098335840,Spanish,MCL,0,explicit_negative,0.0,direct_agreement,LCP y ligamentos colaterales sin alteraciones significativas.,True,,gemma4:e4b,86.387
+537,1.2.826.0.1.3680043.8.498.11557620559191469069130827959098335840,Spanish,Medial Meniscus,0,explicit_negative,0.0,direct_agreement,sin caracteres propios de rotura.,True,,gemma4:e4b,86.387
+537,1.2.826.0.1.3680043.8.498.11557620559191469069130827959098335840,Spanish,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,86.387
+537,1.2.826.0.1.3680043.8.498.11557620559191469069130827959098335840,Spanish,PF OA,0,explicit_negative,0.0,direct_agreement,El resto de los cartílagos femorotibiales y patelofemorales sin alteraciones.,True,,gemma4:e4b,86.387
+537,1.2.826.0.1.3680043.8.498.11557620559191469069130827959098335840,Spanish,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,86.387
+607,1.2.826.0.1.3680043.8.498.11771393824519892797114773408583976756,English,ACL,0,indeterminate,,indeterminate_gold_0,"Interstitial hyperintense signal of ACL, in favor of grade 1 injury.",True,,gemma4:e4b,82.481
+607,1.2.826.0.1.3680043.8.498.11771393824519892797114773408583976756,English,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,82.481
+607,1.2.826.0.1.3680043.8.498.11771393824519892797114773408583976756,English,Contusion,1,explicit_positive,1.0,direct_agreement,"Bone marrow edema in bilateral femoral condyles and anteromedial and posterolateral aspect of proximal tibia, suspect bone contusion.",True,,gemma4:e4b,82.481
+607,1.2.826.0.1.3680043.8.498.11771393824519892797114773408583976756,English,Effusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,"Some joint effusion of right knee with mild hypertrophy of the synovium, indicative of synovitis.",True,,gemma4:e4b,82.481
+607,1.2.826.0.1.3680043.8.498.11771393824519892797114773408583976756,English,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,82.481
+607,1.2.826.0.1.3680043.8.498.11771393824519892797114773408583976756,English,Lateral Meniscus,0,explicit_negative,0.0,direct_agreement,No evidence of tear noted in either medial or lateral meniscus in this study.,True,,gemma4:e4b,82.481
+607,1.2.826.0.1.3680043.8.498.11771393824519892797114773408583976756,English,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,82.481
+607,1.2.826.0.1.3680043.8.498.11771393824519892797114773408583976756,English,MCL,1,explicit_positive,1.0,direct_agreement,Suspect grade 2 injury of MCL with adjacent soft tissue edema over anteromedial aspect of right knee.,True,,gemma4:e4b,82.481
+607,1.2.826.0.1.3680043.8.498.11771393824519892797114773408583976756,English,Medial Meniscus,0,explicit_negative,0.0,direct_agreement,No evidence of tear noted in either medial or lateral meniscus in this study.,True,,gemma4:e4b,82.481
+607,1.2.826.0.1.3680043.8.498.11771393824519892797114773408583976756,English,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,82.481
+607,1.2.826.0.1.3680043.8.498.11771393824519892797114773408583976756,English,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,82.481
+607,1.2.826.0.1.3680043.8.498.11771393824519892797114773408583976756,English,Synovitis,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Mild synovitis of right knee joint.,True,,gemma4:e4b,82.481
+632,1.2.826.0.1.3680043.8.498.11851412923016044948101698015974810604,English,ACL,0,explicit_negative,0.0,direct_agreement,Normal with both bundles intact.,True,,gemma4:e4b,69.606
+632,1.2.826.0.1.3680043.8.498.11851412923016044948101698015974810604,English,Baker's,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Trace Baker's cyst.,True,,gemma4:e4b,69.606
+632,1.2.826.0.1.3680043.8.498.11851412923016044948101698015974810604,English,Contusion,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,69.606
+632,1.2.826.0.1.3680043.8.498.11851412923016044948101698015974810604,English,Effusion,1,explicit_positive,1.0,direct_agreement,Small joint effusion.,True,,gemma4:e4b,69.606
+632,1.2.826.0.1.3680043.8.498.11851412923016044948101698015974810604,English,Fracture,1,explicit_positive,1.0,direct_agreement,Subchondral insufficiency fracture at the medial margin of the medial tibial plateau without articular surface collapse.,True,,gemma4:e4b,69.606
+632,1.2.826.0.1.3680043.8.498.11851412923016044948101698015974810604,English,Lateral Meniscus,1,explicit_positive,1.0,direct_agreement,Partial inner margin radial tear at the anterior horn/body junction of the lateral meniscus without extrusion.,True,,gemma4:e4b,69.606
+632,1.2.826.0.1.3680043.8.498.11851412923016044948101698015974810604,English,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,69.606
+632,1.2.826.0.1.3680043.8.498.11851412923016044948101698015974810604,English,MCL,0,explicit_negative,0.0,direct_agreement,Normal,True,,gemma4:e4b,69.606
+632,1.2.826.0.1.3680043.8.498.11851412923016044948101698015974810604,English,Medial Meniscus,1,explicit_positive,1.0,direct_agreement,Complete radial tear of the posterior root of medial meniscus with mild extrusion.,True,,gemma4:e4b,69.606
+632,1.2.826.0.1.3680043.8.498.11851412923016044948101698015974810604,English,Medial OA,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,69.606
+632,1.2.826.0.1.3680043.8.498.11851412923016044948101698015974810604,English,PF OA,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,69.606
+632,1.2.826.0.1.3680043.8.498.11851412923016044948101698015974810604,English,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,69.606
+656,1.2.826.0.1.3680043.8.498.11915937982684988073644209606907169581,English,ACL,0,explicit_negative,0.0,direct_agreement,No frank tear.,True,,gemma4:e4b,91.358
+656,1.2.826.0.1.3680043.8.498.11915937982684988073644209606907169581,English,Baker's,1,explicit_positive,1.0,direct_agreement,Small amount of fluid in the pes anserine bursa.,True,,gemma4:e4b,91.358
+656,1.2.826.0.1.3680043.8.498.11915937982684988073644209606907169581,English,Contusion,0,explicit_negative,0.0,direct_agreement,Normal.,True,,gemma4:e4b,91.358
+656,1.2.826.0.1.3680043.8.498.11915937982684988073644209606907169581,English,Effusion,1,explicit_positive,1.0,direct_agreement,Small joint effusion with synovitis.,True,,gemma4:e4b,91.358
+656,1.2.826.0.1.3680043.8.498.11915937982684988073644209606907169581,English,Fracture,0,explicit_negative,0.0,direct_agreement,Normal.,True,,gemma4:e4b,91.358
+656,1.2.826.0.1.3680043.8.498.11915937982684988073644209606907169581,English,Lateral Meniscus,1,explicit_positive,1.0,direct_agreement,Complex degenerative tear of the lateral meniscus with tiny displaced fragment.,True,,gemma4:e4b,91.358
+656,1.2.826.0.1.3680043.8.498.11915937982684988073644209606907169581,English,Lateral OA,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,91.358
+656,1.2.826.0.1.3680043.8.498.11915937982684988073644209606907169581,English,MCL,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Low-grade sprain of the medial collateral ligament.,True,,gemma4:e4b,91.358
+656,1.2.826.0.1.3680043.8.498.11915937982684988073644209606907169581,English,Medial Meniscus,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,91.358
+656,1.2.826.0.1.3680043.8.498.11915937982684988073644209606907169581,English,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,91.358
+656,1.2.826.0.1.3680043.8.498.11915937982684988073644209606907169581,English,PF OA,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,91.358
+656,1.2.826.0.1.3680043.8.498.11915937982684988073644209606907169581,English,Synovitis,1,explicit_positive,1.0,direct_agreement,Small joint effusion with synovitis.,True,,gemma4:e4b,91.358
+849,1.2.826.0.1.3680043.8.498.12448079646359892252441208258836556945,Spanish,ACL,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,57.253
+849,1.2.826.0.1.3680043.8.498.12448079646359892252441208258836556945,Spanish,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,57.253
+849,1.2.826.0.1.3680043.8.498.12448079646359892252441208258836556945,Spanish,Contusion,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,57.253
+849,1.2.826.0.1.3680043.8.498.12448079646359892252441208258836556945,Spanish,Effusion,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,57.253
+849,1.2.826.0.1.3680043.8.498.12448079646359892252441208258836556945,Spanish,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,57.253
+849,1.2.826.0.1.3680043.8.498.12448079646359892252441208258836556945,Spanish,Lateral Meniscus,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,57.253
+849,1.2.826.0.1.3680043.8.498.12448079646359892252441208258836556945,Spanish,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,57.253
+849,1.2.826.0.1.3680043.8.498.12448079646359892252441208258836556945,Spanish,MCL,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,57.253
+849,1.2.826.0.1.3680043.8.498.12448079646359892252441208258836556945,Spanish,Medial Meniscus,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,57.253
+849,1.2.826.0.1.3680043.8.498.12448079646359892252441208258836556945,Spanish,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,57.253
+849,1.2.826.0.1.3680043.8.498.12448079646359892252441208258836556945,Spanish,PF OA,1,explicit_positive,1.0,direct_agreement,Condropatía rotuliana,True,,gemma4:e4b,57.253
+849,1.2.826.0.1.3680043.8.498.12448079646359892252441208258836556945,Spanish,Synovitis,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,57.253
+869,1.2.826.0.1.3680043.8.498.12505035424093604269515328931488770819,multilingual,ACL,1,explicit_positive,1.0,direct_agreement,Rotura del LCA.,True,,gemma4:e4b,60.082
+869,1.2.826.0.1.3680043.8.498.12505035424093604269515328931488770819,multilingual,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,60.082
+869,1.2.826.0.1.3680043.8.498.12505035424093604269515328931488770819,multilingual,Contusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Contusiones óseas femorotibiales.,True,,gemma4:e4b,60.082
+869,1.2.826.0.1.3680043.8.498.12505035424093604269515328931488770819,multilingual,Effusion,1,explicit_positive,1.0,direct_agreement,Derrame.,True,,gemma4:e4b,60.082
+869,1.2.826.0.1.3680043.8.498.12505035424093604269515328931488770819,multilingual,Fracture,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,60.082
+869,1.2.826.0.1.3680043.8.498.12505035424093604269515328931488770819,multilingual,Lateral Meniscus,1,explicit_positive,1.0,direct_agreement,Rotura de menisco interno y lateral,True,,gemma4:e4b,60.082
+869,1.2.826.0.1.3680043.8.498.12505035424093604269515328931488770819,multilingual,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,60.082
+869,1.2.826.0.1.3680043.8.498.12505035424093604269515328931488770819,multilingual,MCL,1,explicit_positive,1.0,direct_agreement,Rotura parcial del LCM.,True,,gemma4:e4b,60.082
+869,1.2.826.0.1.3680043.8.498.12505035424093604269515328931488770819,multilingual,Medial Meniscus,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Rotura de menisco interno,True,,gemma4:e4b,60.082
+869,1.2.826.0.1.3680043.8.498.12505035424093604269515328931488770819,multilingual,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,60.082
+869,1.2.826.0.1.3680043.8.498.12505035424093604269515328931488770819,multilingual,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,60.082
+869,1.2.826.0.1.3680043.8.498.12505035424093604269515328931488770819,multilingual,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,60.082
+906,1.2.826.0.1.3680043.8.498.12606657226568558340797193167488111973,English,ACL,1,explicit_positive,1.0,direct_agreement,"complete tear of the anterior cruciate ligament, at mid substance",True,,gemma4:e4b,94.632
+906,1.2.826.0.1.3680043.8.498.12606657226568558340797193167488111973,English,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,94.632
+906,1.2.826.0.1.3680043.8.498.12606657226568558340797193167488111973,English,Contusion,0,explicit_negative,0.0,direct_agreement,no fracture or bone contusion,True,,gemma4:e4b,94.632
+906,1.2.826.0.1.3680043.8.498.12606657226568558340797193167488111973,English,Effusion,0,explicit_negative,0.0,direct_agreement,No knee effusion is present,True,,gemma4:e4b,94.632
+906,1.2.826.0.1.3680043.8.498.12606657226568558340797193167488111973,English,Fracture,0,explicit_negative,0.0,direct_agreement,no fracture or bone contusion,True,,gemma4:e4b,94.632
+906,1.2.826.0.1.3680043.8.498.12606657226568558340797193167488111973,English,Lateral Meniscus,1,explicit_positive,1.0,direct_agreement,longitudinal vertical oblique tear at the posterior horn of the lateral meniscus,True,,gemma4:e4b,94.632
+906,1.2.826.0.1.3680043.8.498.12606657226568558340797193167488111973,English,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,94.632
+906,1.2.826.0.1.3680043.8.498.12606657226568558340797193167488111973,English,MCL,1,explicit_positive,1.0,direct_agreement,Grade II ligamentous sprain (partial tear) of the medial collateral ligament,True,,gemma4:e4b,94.632
+906,1.2.826.0.1.3680043.8.498.12606657226568558340797193167488111973,English,Medial Meniscus,0,explicit_negative,0.0,direct_agreement,the meniscus is not torn,True,,gemma4:e4b,94.632
+906,1.2.826.0.1.3680043.8.498.12606657226568558340797193167488111973,English,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,94.632
+906,1.2.826.0.1.3680043.8.498.12606657226568558340797193167488111973,English,PF OA,0,explicit_negative,0.0,direct_agreement,the patellar and trochlear cartilage appears congruent without chondral lesion,True,,gemma4:e4b,94.632
+906,1.2.826.0.1.3680043.8.498.12606657226568558340797193167488111973,English,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,94.632
+981,1.2.826.0.1.3680043.8.498.12801308844398614687904447633432197492,el,ACL,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,90.003
+981,1.2.826.0.1.3680043.8.498.12801308844398614687904447633432197492,el,Baker's,1,explicit_positive,1.0,direct_agreement,ευµεγέθη πολύχωρη συνοβιακή κύστη Baker,True,,gemma4:e4b,90.003
+981,1.2.826.0.1.3680043.8.498.12801308844398614687904447633432197492,el,Contusion,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,90.003
+981,1.2.826.0.1.3680043.8.498.12801308844398614687904447633432197492,el,Effusion,1,explicit_positive,1.0,direct_agreement,Παρατηρείται µέτρια ποσότητα υγρού ενδαρθρικά,True,,gemma4:e4b,90.003
+981,1.2.826.0.1.3680043.8.498.12801308844398614687904447633432197492,el,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,90.003
+981,1.2.826.0.1.3680043.8.498.12801308844398614687904447633432197492,el,Lateral Meniscus,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,90.003
+981,1.2.826.0.1.3680043.8.498.12801308844398614687904447633432197492,el,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,90.003
+981,1.2.826.0.1.3680043.8.498.12801308844398614687904447633432197492,el,MCL,0,explicit_positive,1.0,explicit_positive_vs_gold_0,εκφυλιστική ρήξη στο οπίσθιο κέρας και σώµα του µηνίσκου,True,,gemma4:e4b,90.003
+981,1.2.826.0.1.3680043.8.498.12801308844398614687904447633432197492,el,Medial Meniscus,1,explicit_positive,1.0,direct_agreement,εκφυλιστική ρήξη στο οπίσθιο κέρας και σώµα του µηνίσκου,True,,gemma4:e4b,90.003
+981,1.2.826.0.1.3680043.8.498.12801308844398614687904447633432197492,el,Medial OA,1,explicit_positive,1.0,direct_agreement,εκφυλιστική οστεοαρθρίτιδα,True,,gemma4:e4b,90.003
+981,1.2.826.0.1.3680043.8.498.12801308844398614687904447633432197492,el,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,90.003
+981,1.2.826.0.1.3680043.8.498.12801308844398614687904447633432197492,el,Synovitis,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,90.003
+1027,1.2.826.0.1.3680043.8.498.12978510157202852202776899910529174803,Bulgarian,ACL,0,explicit_negative,0.0,direct_agreement,Кръстните връзки са със запазена цялост.,True,,gemma4:e4b,91.244
+1027,1.2.826.0.1.3680043.8.498.12978510157202852202776899910529174803,Bulgarian,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,91.244
+1027,1.2.826.0.1.3680043.8.498.12978510157202852202776899910529174803,Bulgarian,Contusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Визуализира се контузионен костномозъчен едем в тибията срединно и към медиалното тибиално плато.,True,,gemma4:e4b,91.244
+1027,1.2.826.0.1.3680043.8.498.12978510157202852202776899910529174803,Bulgarian,Effusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Наличие на минимален ставен излив.,True,,gemma4:e4b,91.244
+1027,1.2.826.0.1.3680043.8.498.12978510157202852202776899910529174803,Bulgarian,Fracture,1,explicit_positive,1.0,direct_agreement,МР данни за фрактура на тибията в областта на интеркондиларните еминенции.,True,,gemma4:e4b,91.244
+1027,1.2.826.0.1.3680043.8.498.12978510157202852202776899910529174803,Bulgarian,Lateral Meniscus,0,explicit_negative,0.0,direct_agreement,Нормално представени менискуси.,True,,gemma4:e4b,91.244
+1027,1.2.826.0.1.3680043.8.498.12978510157202852202776899910529174803,Bulgarian,Lateral OA,0,explicit_negative,0.0,direct_agreement,Нормално представени менискуси.,True,,gemma4:e4b,91.244
+1027,1.2.826.0.1.3680043.8.498.12978510157202852202776899910529174803,Bulgarian,MCL,0,explicit_negative,0.0,direct_agreement,Кръстните връзки са със запазена цялост.,True,,gemma4:e4b,91.244
+1027,1.2.826.0.1.3680043.8.498.12978510157202852202776899910529174803,Bulgarian,Medial Meniscus,0,explicit_negative,0.0,direct_agreement,Нормално представени менискуси.,True,,gemma4:e4b,91.244
+1027,1.2.826.0.1.3680043.8.498.12978510157202852202776899910529174803,Bulgarian,Medial OA,0,explicit_negative,0.0,direct_agreement,"Хрущялът, покриващ ставните повърхности на костите е съхранен.",True,,gemma4:e4b,91.244
+1027,1.2.826.0.1.3680043.8.498.12978510157202852202776899910529174803,Bulgarian,PF OA,0,explicit_negative,0.0,direct_agreement,"Хрущялът, покриващ ставните повърхности на костите е съхранен.",True,,gemma4:e4b,91.244
+1027,1.2.826.0.1.3680043.8.498.12978510157202852202776899910529174803,Bulgarian,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,91.244
+1150,1.2.826.0.1.3680043.8.498.13267780356245120052411517053322874891,English,ACL,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Grade 2 injury of anterior cruciate ligament.,True,,gemma4:e4b,76.605
+1150,1.2.826.0.1.3680043.8.498.13267780356245120052411517053322874891,English,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,76.605
+1150,1.2.826.0.1.3680043.8.498.13267780356245120052411517053322874891,English,Contusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Bone contusion with neglected fracture line at fibular head.,True,,gemma4:e4b,76.605
+1150,1.2.826.0.1.3680043.8.498.13267780356245120052411517053322874891,English,Effusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Some joint effusion,True,,gemma4:e4b,76.605
+1150,1.2.826.0.1.3680043.8.498.13267780356245120052411517053322874891,English,Fracture,1,explicit_positive,1.0,direct_agreement,Split fractures at tibial plateau with depression of the lateral articular surface and extending to tibial intercondylar region,True,,gemma4:e4b,76.605
+1150,1.2.826.0.1.3680043.8.498.13267780356245120052411517053322874891,English,Lateral Meniscus,1,explicit_positive,1.0,direct_agreement,Tear of anterior horn of lateral meniscus.,True,,gemma4:e4b,76.605
+1150,1.2.826.0.1.3680043.8.498.13267780356245120052411517053322874891,English,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,76.605
+1150,1.2.826.0.1.3680043.8.498.13267780356245120052411517053322874891,English,MCL,0,explicit_negative,0.0,direct_agreement,Both medial & lateral collateral ligaments appear to be within normal.,True,,gemma4:e4b,76.605
+1150,1.2.826.0.1.3680043.8.498.13267780356245120052411517053322874891,English,Medial Meniscus,0,explicit_negative,0.0,direct_agreement,Medial meniscus appears to be normal.,True,,gemma4:e4b,76.605
+1150,1.2.826.0.1.3680043.8.498.13267780356245120052411517053322874891,English,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,76.605
+1150,1.2.826.0.1.3680043.8.498.13267780356245120052411517053322874891,English,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,76.605
+1150,1.2.826.0.1.3680043.8.498.13267780356245120052411517053322874891,English,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,76.605
+1172,1.2.826.0.1.3680043.8.498.13335129881737731410081002627729200903,Dutch,ACL,1,explicit_positive,1.0,direct_agreement,gevorderde muco ïde degeneratie voorste kruisband,True,,gemma4:e4b,92.527
+1172,1.2.826.0.1.3680043.8.498.13335129881737731410081002627729200903,Dutch,Baker's,1,explicit_positive,1.0,direct_agreement,Popliteale cyste,True,,gemma4:e4b,92.527
+1172,1.2.826.0.1.3680043.8.498.13335129881737731410081002627729200903,Dutch,Contusion,0,explicit_negative,0.0,direct_agreement,zonder significant botoedeem,True,,gemma4:e4b,92.527
+1172,1.2.826.0.1.3680043.8.498.13335129881737731410081002627729200903,Dutch,Effusion,1,explicit_positive,1.0,direct_agreement,op heden met hydrops,True,,gemma4:e4b,92.527
+1172,1.2.826.0.1.3680043.8.498.13335129881737731410081002627729200903,Dutch,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,92.527
+1172,1.2.826.0.1.3680043.8.498.13335129881737731410081002627729200903,Dutch,Lateral Meniscus,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,92.527
+1172,1.2.826.0.1.3680043.8.498.13335129881737731410081002627729200903,Dutch,Lateral OA,1,explicit_positive,1.0,direct_agreement,"Gevorderd lateraal femorotibiaal kraakbeenlijden met volledig kraakbeenverlies anterieur, centrale en posterieure dragende deel en van het laterale tibiaplateau, gepaard gaand met marginale osteofytose",True,,gemma4:e4b,92.527
+1172,1.2.826.0.1.3680043.8.498.13335129881737731410081002627729200903,Dutch,MCL,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,92.527
+1172,1.2.826.0.1.3680043.8.498.13335129881737731410081002627729200903,Dutch,Medial Meniscus,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,92.527
+1172,1.2.826.0.1.3680043.8.498.13335129881737731410081002627729200903,Dutch,Medial OA,1,explicit_positive,1.0,direct_agreement,"Matig mediaal femorotibiaal kraakbeenlijden, met quasi volledig kraakbeenverlies dragende deel mediale femorale condyl, uitgebreide marginale osteofytose",True,,gemma4:e4b,92.527
+1172,1.2.826.0.1.3680043.8.498.13335129881737731410081002627729200903,Dutch,PF OA,1,explicit_positive,1.0,direct_agreement,nodulair beginnend tot matig femoropatellair kraakbeenlijden,True,,gemma4:e4b,92.527
+1172,1.2.826.0.1.3680043.8.498.13335129881737731410081002627729200903,Dutch,Synovitis,1,explicit_positive,1.0,direct_agreement,chronische synovitis,True,,gemma4:e4b,92.527
+1275,1.2.826.0.1.3680043.8.498.15593638897292057356864060466120253309,Spanish,ACL,0,indeterminate,,indeterminate_gold_0,Transformación quística parcial del tercio proximal del LCA.,True,,gemma4:e4b,103.913
+1275,1.2.826.0.1.3680043.8.498.15593638897292057356864060466120253309,Spanish,Baker's,0,explicit_negative,0.0,direct_agreement,No hay quistes poplíteos.,True,,gemma4:e4b,103.913
+1275,1.2.826.0.1.3680043.8.498.15593638897292057356864060466120253309,Spanish,Contusion,0,explicit_negative,0.0,direct_agreement,no hay alteraciones de señal significativas de la médula ósea.,True,,gemma4:e4b,103.913
+1275,1.2.826.0.1.3680043.8.498.15593638897292057356864060466120253309,Spanish,Effusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Leve derrame articular con discreta sinovitis.,True,,gemma4:e4b,103.913
+1275,1.2.826.0.1.3680043.8.498.15593638897292057356864060466120253309,Spanish,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,103.913
+1275,1.2.826.0.1.3680043.8.498.15593638897292057356864060466120253309,Spanish,Lateral Meniscus,1,explicit_positive,1.0,direct_agreement,"Rotura del cuerno anterior, cuerpo y cuerno posterior del menisco lateral con mínima extrusión.",True,,gemma4:e4b,103.913
+1275,1.2.826.0.1.3680043.8.498.15593638897292057356864060466120253309,Spanish,Lateral OA,1,explicit_positive,1.0,direct_agreement,Úlceras condrales espesor parcial de la región central del platillo tibial lateral.,True,,gemma4:e4b,103.913
+1275,1.2.826.0.1.3680043.8.498.15593638897292057356864060466120253309,Spanish,MCL,0,explicit_negative,0.0,direct_agreement,LCP y ligamentos colaterales dentro de límites normales.,True,,gemma4:e4b,103.913
+1275,1.2.826.0.1.3680043.8.498.15593638897292057356864060466120253309,Spanish,Medial Meniscus,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Aumento de señal central del cuerno posterior y cuerpo del menisco medial que contacta la superficie articular inferior sugieran una rotura.,True,,gemma4:e4b,103.913
+1275,1.2.826.0.1.3680043.8.498.15593638897292057356864060466120253309,Spanish,Medial OA,1,explicit_positive,1.0,direct_agreement,Úlceras condrales de espesor parcial y total de la región central de la zona de carga del cóndilo femoral medial.,True,,gemma4:e4b,103.913
+1275,1.2.826.0.1.3680043.8.498.15593638897292057356864060466120253309,Spanish,PF OA,1,explicit_positive,1.0,direct_agreement,Úlceras condrales de espesor total de distribución difusa de la rótula.,True,,gemma4:e4b,103.913
+1275,1.2.826.0.1.3680043.8.498.15593638897292057356864060466120253309,Spanish,Synovitis,1,explicit_positive,1.0,direct_agreement,discreta sinovitis.,True,,gemma4:e4b,103.913
+1286,1.2.826.0.1.3680043.8.498.16060119389060497136231217718921482192,English,ACL,0,explicit_negative,0.0,direct_agreement,ACL normal.,True,,gemma4:e4b,69.045
+1286,1.2.826.0.1.3680043.8.498.16060119389060497136231217718921482192,English,Baker's,1,explicit_positive,1.0,direct_agreement,Baker's cyst present.,True,,gemma4:e4b,69.045
+1286,1.2.826.0.1.3680043.8.498.16060119389060497136231217718921482192,English,Contusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Insufficient fracture of medial femoral condyl with adjacent bone marrow oedema.,True,,gemma4:e4b,69.045
+1286,1.2.826.0.1.3680043.8.498.16060119389060497136231217718921482192,English,Effusion,1,explicit_positive,1.0,direct_agreement,Large effusion.,True,,gemma4:e4b,69.045
+1286,1.2.826.0.1.3680043.8.498.16060119389060497136231217718921482192,English,Fracture,1,explicit_positive,1.0,direct_agreement,Insufficient fracture of medial femoral condyl,True,,gemma4:e4b,69.045
+1286,1.2.826.0.1.3680043.8.498.16060119389060497136231217718921482192,English,Lateral Meniscus,1,explicit_positive,1.0,direct_agreement,Lateral meniscus tear.,True,,gemma4:e4b,69.045
+1286,1.2.826.0.1.3680043.8.498.16060119389060497136231217718921482192,English,Lateral OA,1,explicit_positive,1.0,direct_agreement,Incipient OA of all three compartmens.,True,,gemma4:e4b,69.045
+1286,1.2.826.0.1.3680043.8.498.16060119389060497136231217718921482192,English,MCL,0,explicit_negative,0.0,direct_agreement,MCL normal.,True,,gemma4:e4b,69.045
+1286,1.2.826.0.1.3680043.8.498.16060119389060497136231217718921482192,English,Medial Meniscus,1,explicit_positive,1.0,direct_agreement,Medial meniscus tear.,True,,gemma4:e4b,69.045
+1286,1.2.826.0.1.3680043.8.498.16060119389060497136231217718921482192,English,Medial OA,1,explicit_positive,1.0,direct_agreement,Incipient OA of all three compartmens.,True,,gemma4:e4b,69.045
+1286,1.2.826.0.1.3680043.8.498.16060119389060497136231217718921482192,English,PF OA,1,explicit_positive,1.0,direct_agreement,Incipient OA of all three compartmens.,True,,gemma4:e4b,69.045
+1286,1.2.826.0.1.3680043.8.498.16060119389060497136231217718921482192,English,Synovitis,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,69.045
+1352,1.2.826.0.1.3680043.8.498.17844546765907321649997094867791102711,Turkish,ACL,1,explicit_positive,1.0,direct_agreement,Ön çapraz bağdaki laksite artışı ve ödem yüksek olasılıkla tam kat-tam kata yakın yırtık ile birlikte.,True,,gemma4:e4b,79.989
+1352,1.2.826.0.1.3680043.8.498.17844546765907321649997094867791102711,Turkish,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,79.989
+1352,1.2.826.0.1.3680043.8.498.17844546765907321649997094867791102711,Turkish,Contusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Tibyal plato posterolateral köşesinde pivot kayması ile ilintili kemik kontüzyonu mevcut.,True,,gemma4:e4b,79.989
+1352,1.2.826.0.1.3680043.8.498.17844546765907321649997094867791102711,Turkish,Effusion,1,explicit_positive,1.0,direct_agreement,Diz eklemi içi sıvı miktarı hafif derecede artmış.,True,,gemma4:e4b,79.989
+1352,1.2.826.0.1.3680043.8.498.17844546765907321649997094867791102711,Turkish,Fracture,1,explicit_positive,1.0,direct_agreement,Lateral femoral kondilin ağırlık taşıyan yüzeyinin anteriyor yarısındaki subkondral kırığı kemik iliği ödemi çevreliyor.,True,,gemma4:e4b,79.989
+1352,1.2.826.0.1.3680043.8.498.17844546765907321649997094867791102711,Turkish,Lateral Meniscus,0,explicit_negative,0.0,direct_agreement,Medyal menisküs ve lateral menisküs normal.,True,,gemma4:e4b,79.989
+1352,1.2.826.0.1.3680043.8.498.17844546765907321649997094867791102711,Turkish,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,79.989
+1352,1.2.826.0.1.3680043.8.498.17844546765907321649997094867791102711,Turkish,MCL,0,explicit_negative,0.0,direct_agreement,Posteriyor medyal köşe yapıları bunların dışında korunmuş.,True,,gemma4:e4b,79.989
+1352,1.2.826.0.1.3680043.8.498.17844546765907321649997094867791102711,Turkish,Medial Meniscus,0,explicit_negative,0.0,direct_agreement,Medyal menisküs ve lateral menisküs normal.,True,,gemma4:e4b,79.989
+1352,1.2.826.0.1.3680043.8.498.17844546765907321649997094867791102711,Turkish,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,79.989
+1352,1.2.826.0.1.3680043.8.498.17844546765907321649997094867791102711,Turkish,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,79.989
+1352,1.2.826.0.1.3680043.8.498.17844546765907321649997094867791102711,Turkish,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,79.989
+1373,1.2.826.0.1.3680043.8.498.18392509497170616983977319528036573378,Turkish,ACL,1,explicit_positive,1.0,direct_agreement,Anterior çapraz bağda komplet rüptüre sekonder bütünlük kaybı izlenmiştir.,True,,gemma4:e4b,89.191
+1373,1.2.826.0.1.3680043.8.498.18392509497170616983977319528036573378,Turkish,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,89.191
+1373,1.2.826.0.1.3680043.8.498.18392509497170616983977319528036573378,Turkish,Contusion,1,explicit_positive,1.0,direct_agreement,Tibia lateral plato posteriorunda fibula başında kontüzyonel kemik iliği ödemleri izlenmektedir.,True,,gemma4:e4b,89.191
+1373,1.2.826.0.1.3680043.8.498.18392509497170616983977319528036573378,Turkish,Effusion,1,explicit_positive,1.0,direct_agreement,Suprapatellar bursa ve diz eklem mesafesinde sıvı artışı izlenmiştir.,True,,gemma4:e4b,89.191
+1373,1.2.826.0.1.3680043.8.498.18392509497170616983977319528036573378,Turkish,Fracture,1,explicit_positive,1.0,direct_agreement,Femur lateral kondilde subartiküler nondeplase fraktür,True,,gemma4:e4b,89.191
+1373,1.2.826.0.1.3680043.8.498.18392509497170616983977319528036573378,Turkish,Lateral Meniscus,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Medial ve lateral menisküs posterior hornu ve gövde kesiminde grade II dejenerasyon izlenmiştir.,True,,gemma4:e4b,89.191
+1373,1.2.826.0.1.3680043.8.498.18392509497170616983977319528036573378,Turkish,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,89.191
+1373,1.2.826.0.1.3680043.8.498.18392509497170616983977319528036573378,Turkish,MCL,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Medial kollateral ligamanda grade I sprain.,True,,gemma4:e4b,89.191
+1373,1.2.826.0.1.3680043.8.498.18392509497170616983977319528036573378,Turkish,Medial Meniscus,1,explicit_positive,1.0,direct_agreement,Medial ve lateral menisküs posterior hornu ve gövde kesiminde grade II dejenerasyon izlenmiştir.,True,,gemma4:e4b,89.191
+1373,1.2.826.0.1.3680043.8.498.18392509497170616983977319528036573378,Turkish,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,89.191
+1373,1.2.826.0.1.3680043.8.498.18392509497170616983977319528036573378,Turkish,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,89.191
+1373,1.2.826.0.1.3680043.8.498.18392509497170616983977319528036573378,Turkish,Synovitis,1,explicit_positive,1.0,direct_agreement,diz ekleminde hafif sinovit.,True,,gemma4:e4b,89.191
+1505,1.2.826.0.1.3680043.8.498.22109739962224309418874538994436903404,English,ACL,0,explicit_negative,0.0,direct_agreement,Anterior cruciate ligament (ACL): Normal with both bundles intact.,True,,gemma4:e4b,110.572
+1505,1.2.826.0.1.3680043.8.498.22109739962224309418874538994436903404,English,Baker's,1,explicit_positive,1.0,direct_agreement,Moderate-sized Baker cyst with slight surrounding edema likely representing leakage.,True,,gemma4:e4b,110.572
+1505,1.2.826.0.1.3680043.8.498.22109739962224309418874538994436903404,English,Contusion,0,explicit_negative,0.0,direct_agreement,No acute fracture or bone bruise.,True,,gemma4:e4b,110.572
+1505,1.2.826.0.1.3680043.8.498.22109739962224309418874538994436903404,English,Effusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Small joint effusion.,True,,gemma4:e4b,110.572
+1505,1.2.826.0.1.3680043.8.498.22109739962224309418874538994436903404,English,Fracture,0,explicit_negative,0.0,direct_agreement,No acute fracture or bone bruise.,True,,gemma4:e4b,110.572
+1505,1.2.826.0.1.3680043.8.498.22109739962224309418874538994436903404,English,Lateral Meniscus,1,explicit_positive,1.0,direct_agreement,There is irregularity of the inner margin diffusely consistent with recurrent tear.,True,,gemma4:e4b,110.572
+1505,1.2.826.0.1.3680043.8.498.22109739962224309418874538994436903404,English,Lateral OA,1,explicit_positive,1.0,direct_agreement,Lateral compartment chondrosis appears new or increased.,True,,gemma4:e4b,110.572
+1505,1.2.826.0.1.3680043.8.498.22109739962224309418874538994436903404,English,MCL,0,explicit_negative,0.0,direct_agreement,Medial collateral ligament (MCL): Normal.,True,,gemma4:e4b,110.572
+1505,1.2.826.0.1.3680043.8.498.22109739962224309418874538994436903404,English,Medial Meniscus,0,explicit_negative,0.0,direct_agreement,Medial meniscus: Normal in morphology and signal.,True,,gemma4:e4b,110.572
+1505,1.2.826.0.1.3680043.8.498.22109739962224309418874538994436903404,English,Medial OA,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,110.572
+1505,1.2.826.0.1.3680043.8.498.22109739962224309418874538994436903404,English,PF OA,0,explicit_positive,1.0,explicit_positive_vs_gold_0,"There is mild cartilage thinning and surface irregularity at the patella and trochlea, medial greater than lateral.",True,,gemma4:e4b,110.572
+1505,1.2.826.0.1.3680043.8.498.22109739962224309418874538994436903404,English,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,110.572
+1635,1.2.826.0.1.3680043.8.498.25695966186129395049687747156570466645,Greek,ACL,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,100.623
+1635,1.2.826.0.1.3680043.8.498.25695966186129395049687747156570466645,Greek,Baker's,0,explicit_positive,1.0,explicit_positive_vs_gold_0,μικρή συνοβιακή κύστη Baker,True,,gemma4:e4b,100.623
+1635,1.2.826.0.1.3680043.8.498.25695966186129395049687747156570466645,Greek,Contusion,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,100.623
+1635,1.2.826.0.1.3680043.8.498.25695966186129395049687747156570466645,Greek,Effusion,1,explicit_positive,1.0,direct_agreement,Συλλογή υγρού παρατηρείται ενδαρθρικά,True,,gemma4:e4b,100.623
+1635,1.2.826.0.1.3680043.8.498.25695966186129395049687747156570466645,Greek,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,100.623
+1635,1.2.826.0.1.3680043.8.498.25695966186129395049687747156570466645,Greek,Lateral Meniscus,1,explicit_positive,1.0,direct_agreement,Απλή εκφύλιση παρατηρείται στον έξω µηνίσκο,True,,gemma4:e4b,100.623
+1635,1.2.826.0.1.3680043.8.498.25695966186129395049687747156570466645,Greek,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,100.623
+1635,1.2.826.0.1.3680043.8.498.25695966186129395049687747156570466645,Greek,MCL,0,explicit_negative,0.0,direct_agreement,δεν παρατηρούνται αξιόλογα ευρήµατα,True,,gemma4:e4b,100.623
+1635,1.2.826.0.1.3680043.8.498.25695966186129395049687747156570466645,Greek,Medial Meniscus,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,100.623
+1635,1.2.826.0.1.3680043.8.498.25695966186129395049687747156570466645,Greek,Medial OA,1,explicit_positive,1.0,direct_agreement,Ευρήµατα αρχόµενης εκφυλιστικής οστεοαρθρίτιδας κατά το έσω διαµέρισμα,True,,gemma4:e4b,100.623
+1635,1.2.826.0.1.3680043.8.498.25695966186129395049687747156570466645,Greek,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,100.623
+1635,1.2.826.0.1.3680043.8.498.25695966186129395049687747156570466645,Greek,Synovitis,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,100.623
+1676,1.2.826.0.1.3680043.8.498.26790702379506190936834447203448882465,English,ACL,1,explicit_positive,1.0,direct_agreement,ACL is ruptured in its mid substance.,True,,gemma4:e4b,75.331
+1676,1.2.826.0.1.3680043.8.498.26790702379506190936834447203448882465,English,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,75.331
+1676,1.2.826.0.1.3680043.8.498.26790702379506190936834447203448882465,English,Contusion,1,explicit_positive,1.0,direct_agreement,mild residual bone contusion in the weightbearing aspect of the lateral femoral condyle and posterior aspect of the lateral tibial condyle.,True,,gemma4:e4b,75.331
+1676,1.2.826.0.1.3680043.8.498.26790702379506190936834447203448882465,English,Effusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,There is a mild knee effusion.,True,,gemma4:e4b,75.331
+1676,1.2.826.0.1.3680043.8.498.26790702379506190936834447203448882465,English,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,75.331
+1676,1.2.826.0.1.3680043.8.498.26790702379506190936834447203448882465,English,Lateral Meniscus,0,explicit_negative,0.0,direct_agreement,Normal medial and lateral menisci.,True,,gemma4:e4b,75.331
+1676,1.2.826.0.1.3680043.8.498.26790702379506190936834447203448882465,English,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,75.331
+1676,1.2.826.0.1.3680043.8.498.26790702379506190936834447203448882465,English,MCL,0,explicit_negative,0.0,direct_agreement,"Normal PCL, MCL and LCL.",True,,gemma4:e4b,75.331
+1676,1.2.826.0.1.3680043.8.498.26790702379506190936834447203448882465,English,Medial Meniscus,0,explicit_negative,0.0,direct_agreement,Normal medial and lateral menisci.,True,,gemma4:e4b,75.331
+1676,1.2.826.0.1.3680043.8.498.26790702379506190936834447203448882465,English,Medial OA,0,explicit_negative,0.0,direct_agreement,The tibiofemoral and patellofemoral articular cartilage is normal.,True,,gemma4:e4b,75.331
+1676,1.2.826.0.1.3680043.8.498.26790702379506190936834447203448882465,English,PF OA,0,explicit_negative,0.0,direct_agreement,The tibiofemoral and patellofemoral articular cartilage is normal.,True,,gemma4:e4b,75.331
+1676,1.2.826.0.1.3680043.8.498.26790702379506190936834447203448882465,English,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,75.331
+1707,1.2.826.0.1.3680043.8.498.27437263843446879932281897446100134924,English,ACL,0,explicit_negative,0.0,direct_agreement,ACL normal.,True,,gemma4:e4b,53.979
+1707,1.2.826.0.1.3680043.8.498.27437263843446879932281897446100134924,English,Baker's,0,explicit_negative,0.0,direct_agreement,No baker's cyst.,True,,gemma4:e4b,53.979
+1707,1.2.826.0.1.3680043.8.498.27437263843446879932281897446100134924,English,Contusion,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,53.979
+1707,1.2.826.0.1.3680043.8.498.27437263843446879932281897446100134924,English,Effusion,0,explicit_negative,0.0,direct_agreement,No effusion.,True,,gemma4:e4b,53.979
+1707,1.2.826.0.1.3680043.8.498.27437263843446879932281897446100134924,English,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,53.979
+1707,1.2.826.0.1.3680043.8.498.27437263843446879932281897446100134924,English,Lateral Meniscus,0,explicit_negative,0.0,direct_agreement,Lateral meniscus normal.,True,,gemma4:e4b,53.979
+1707,1.2.826.0.1.3680043.8.498.27437263843446879932281897446100134924,English,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,53.979
+1707,1.2.826.0.1.3680043.8.498.27437263843446879932281897446100134924,English,MCL,0,explicit_negative,0.0,direct_agreement,MCL normal.,True,,gemma4:e4b,53.979
+1707,1.2.826.0.1.3680043.8.498.27437263843446879932281897446100134924,English,Medial Meniscus,1,explicit_positive,1.0,direct_agreement,Medial meniscus tear.,True,,gemma4:e4b,53.979
+1707,1.2.826.0.1.3680043.8.498.27437263843446879932281897446100134924,English,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,53.979
+1707,1.2.826.0.1.3680043.8.498.27437263843446879932281897446100134924,English,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,53.979
+1707,1.2.826.0.1.3680043.8.498.27437263843446879932281897446100134924,English,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,53.979
+1772,1.2.826.0.1.3680043.8.498.28925345859498351203477642741908452608,Turkish,ACL,0,explicit_negative,0.0,direct_agreement,"Arka çapraz bağ, çm çapraz bağ , lateral ve medial kollateral ligaman normaldir.",True,,gemma4:e4b,86.478
+1772,1.2.826.0.1.3680043.8.498.28925345859498351203477642741908452608,Turkish,Baker's,1,explicit_positive,1.0,direct_agreement,Popliteal fossada 54x15 mm çapta Baker kisti ile uyumlu görünüm mevcuttur.,True,,gemma4:e4b,86.478
+1772,1.2.826.0.1.3680043.8.498.28925345859498351203477642741908452608,Turkish,Contusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Tibia proksimali ve femur distal epikondil seviyesi medialde kemik iliği ödemi ile uyumlu görünümler mevcuttur.,True,,gemma4:e4b,86.478
+1772,1.2.826.0.1.3680043.8.498.28925345859498351203477642741908452608,Turkish,Effusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Suprapatellar bursada sıvı artışı izlenmiştir.,True,,gemma4:e4b,86.478
+1772,1.2.826.0.1.3680043.8.498.28925345859498351203477642741908452608,Turkish,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,86.478
+1772,1.2.826.0.1.3680043.8.498.28925345859498351203477642741908452608,Turkish,Lateral Meniscus,1,explicit_negative,0.0,explicit_negative_vs_gold_1,Lateral menisküs normal.,True,,gemma4:e4b,86.478
+1772,1.2.826.0.1.3680043.8.498.28925345859498351203477642741908452608,Turkish,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,86.478
+1772,1.2.826.0.1.3680043.8.498.28925345859498351203477642741908452608,Turkish,MCL,0,explicit_negative,0.0,direct_agreement,"Arka çapraz bağ, çm çapraz bağ , lateral ve medial kollateral ligaman normaldir.",True,,gemma4:e4b,86.478
+1772,1.2.826.0.1.3680043.8.498.28925345859498351203477642741908452608,Turkish,Medial Meniscus,1,explicit_positive,1.0,direct_agreement,Medial menisküs ekstrüde görünümde olup posterior hornunda yırtık ile uyumlu sinyal değişiklikleri mevcuttur.,True,,gemma4:e4b,86.478
+1772,1.2.826.0.1.3680043.8.498.28925345859498351203477642741908452608,Turkish,Medial OA,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,86.478
+1772,1.2.826.0.1.3680043.8.498.28925345859498351203477642741908452608,Turkish,PF OA,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,86.478
+1772,1.2.826.0.1.3680043.8.498.28925345859498351203477642741908452608,Turkish,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,86.478
+1799,1.2.826.0.1.3680043.8.498.29764868091238287072166823522853419550,English,ACL,1,explicit_positive,1.0,direct_agreement,ACL is ruptured.,True,,gemma4:e4b,72.597
+1799,1.2.826.0.1.3680043.8.498.29764868091238287072166823522853419550,English,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,72.597
+1799,1.2.826.0.1.3680043.8.498.29764868091238287072166823522853419550,English,Contusion,1,explicit_positive,1.0,direct_agreement,A bone contusion is noted in the posterolateral corner of the lateral tibial plateau.,True,,gemma4:e4b,72.597
+1799,1.2.826.0.1.3680043.8.498.29764868091238287072166823522853419550,English,Effusion,0,explicit_negative,0.0,direct_agreement,No evidence of knee effusion.,True,,gemma4:e4b,72.597
+1799,1.2.826.0.1.3680043.8.498.29764868091238287072166823522853419550,English,Fracture,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,72.597
+1799,1.2.826.0.1.3680043.8.498.29764868091238287072166823522853419550,English,Lateral Meniscus,0,explicit_negative,0.0,direct_agreement,Normal medial and lateral menisci.,True,,gemma4:e4b,72.597
+1799,1.2.826.0.1.3680043.8.498.29764868091238287072166823522853419550,English,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,72.597
+1799,1.2.826.0.1.3680043.8.498.29764868091238287072166823522853419550,English,MCL,0,explicit_negative,0.0,direct_agreement,"Normal PCL, MCL and LCL.",True,,gemma4:e4b,72.597
+1799,1.2.826.0.1.3680043.8.498.29764868091238287072166823522853419550,English,Medial Meniscus,0,explicit_negative,0.0,direct_agreement,Normal medial and lateral menisci.,True,,gemma4:e4b,72.597
+1799,1.2.826.0.1.3680043.8.498.29764868091238287072166823522853419550,English,Medial OA,0,explicit_negative,0.0,direct_agreement,The tibiofemoral and patellofemoral articular cartilage is normal.,True,,gemma4:e4b,72.597
+1799,1.2.826.0.1.3680043.8.498.29764868091238287072166823522853419550,English,PF OA,0,explicit_negative,0.0,direct_agreement,The tibiofemoral and patellofemoral articular cartilage is normal.,True,,gemma4:e4b,72.597
+1799,1.2.826.0.1.3680043.8.498.29764868091238287072166823522853419550,English,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,72.597
+1816,1.2.826.0.1.3680043.8.498.30246079718471552972130572444383079911,Turkish,ACL,1,explicit_positive,1.0,direct_agreement,Ön çapraz bağ devamlılığı seçilememiştir (komplet yırtık).,True,,gemma4:e4b,85.129
+1816,1.2.826.0.1.3680043.8.498.30246079718471552972130572444383079911,Turkish,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,85.129
+1816,1.2.826.0.1.3680043.8.498.30246079718471552972130572444383079911,Turkish,Contusion,1,explicit_positive,1.0,direct_agreement,Femur lateral kondil ve tibia lateral plato seviyesinde yaygın kontüzyonel kemik iliği ödemleri izlenmiştir.,True,,gemma4:e4b,85.129
+1816,1.2.826.0.1.3680043.8.498.30246079718471552972130572444383079911,Turkish,Effusion,1,explicit_positive,1.0,direct_agreement,Suprapatellar bursada ve diz eklemi içerisinde yaygın sıvı artışı izlenmiştir.,True,,gemma4:e4b,85.129
+1816,1.2.826.0.1.3680043.8.498.30246079718471552972130572444383079911,Turkish,Fracture,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,85.129
+1816,1.2.826.0.1.3680043.8.498.30246079718471552972130572444383079911,Turkish,Lateral Meniscus,1,explicit_positive,1.0,direct_agreement,"Lateral menisküste grade II dejenerasyon, kova sapı yırtığı ile uyumlu görünüm mevcuttur.",True,,gemma4:e4b,85.129
+1816,1.2.826.0.1.3680043.8.498.30246079718471552972130572444383079911,Turkish,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,85.129
+1816,1.2.826.0.1.3680043.8.498.30246079718471552972130572444383079911,Turkish,MCL,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Lateral ve medial kollateral ligamanlar çevresinde hafif ödematöz görünüm (grade I sprain) izlenmiştir.,True,,gemma4:e4b,85.129
+1816,1.2.826.0.1.3680043.8.498.30246079718471552972130572444383079911,Turkish,Medial Meniscus,1,explicit_positive,1.0,direct_agreement,"Medial menisküste grade II dejenerasyon, radial yırtık ile uyumlu görünüm mevcuttur.",True,,gemma4:e4b,85.129
+1816,1.2.826.0.1.3680043.8.498.30246079718471552972130572444383079911,Turkish,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,85.129
+1816,1.2.826.0.1.3680043.8.498.30246079718471552972130572444383079911,Turkish,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,85.129
+1816,1.2.826.0.1.3680043.8.498.30246079718471552972130572444383079911,Turkish,Synovitis,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,85.129
+1894,1.2.826.0.1.3680043.8.498.32321830776739689645700555055955725945,el,ACL,1,indeterminate,,indeterminate_gold_1,Οιδηµατώδης απεικόνιση του πρόσθιου χιαστού συνδέσµου µε ασυνέχεια των ινών του στο πλαίσιο υφολικής (σχεδόν πλήρους) ρήξης.,True,,gemma4:e4b,98.488
+1894,1.2.826.0.1.3680043.8.498.32321830776739689645700555055955725945,el,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,98.488
+1894,1.2.826.0.1.3680043.8.498.32321830776739689645700555055955725945,el,Contusion,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,98.488
+1894,1.2.826.0.1.3680043.8.498.32321830776739689645700555055955725945,el,Effusion,1,explicit_positive,1.0,direct_agreement,Ικανή ποσότητα ενθαρθρικής συλλογής υγρού.,True,,gemma4:e4b,98.488
+1894,1.2.826.0.1.3680043.8.498.32321830776739689645700555055955725945,el,Fracture,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,98.488
+1894,1.2.826.0.1.3680043.8.498.32321830776739689645700555055955725945,el,Lateral Meniscus,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,98.488
+1894,1.2.826.0.1.3680043.8.498.32321830776739689645700555055955725945,el,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,98.488
+1894,1.2.826.0.1.3680043.8.498.32321830776739689645700555055955725945,el,MCL,1,explicit_positive,1.0,direct_agreement,Οιδηµατώδης απεικόνιση και ασυνέχεια στην εγγύς µοίρα του έσω πλαγίου συνδέσµου µε παρουσία οιδήµατος πέριξ στο πλαίσιο µερικής ρήξης (grade 2).,True,,gemma4:e4b,98.488
+1894,1.2.826.0.1.3680043.8.498.32321830776739689645700555055955725945,el,Medial Meniscus,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,98.488
+1894,1.2.826.0.1.3680043.8.498.32321830776739689645700555055955725945,el,Medial OA,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Λέπτυνση και ανωµαλία παρυφής του αρθρικού χόνδρου ιδίως στο έσω µεσάρθριο,True,,gemma4:e4b,98.488
+1894,1.2.826.0.1.3680043.8.498.32321830776739689645700555055955725945,el,PF OA,1,explicit_positive,1.0,direct_agreement,και στον έσω αρθρικό χόνδρο της επιγονατίδας στο πλαίσιο αρχόµενης οστεοαρθρίτιδας.,True,,gemma4:e4b,98.488
+1894,1.2.826.0.1.3680043.8.498.32321830776739689645700555055955725945,el,Synovitis,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,98.488
+2064,1.2.826.0.1.3680043.8.498.37040910196459054543310335064167212742,English,ACL,1,explicit_positive,1.0,direct_agreement,ACL tear.,True,,gemma4:e4b,112.869
+2064,1.2.826.0.1.3680043.8.498.37040910196459054543310335064167212742,English,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,112.869
+2064,1.2.826.0.1.3680043.8.498.37040910196459054543310335064167212742,English,Contusion,1,explicit_positive,1.0,direct_agreement,"Bone contusion in distal femur, proximal tibia and fibula, and lower pole of patella.",True,,gemma4:e4b,112.869
+2064,1.2.826.0.1.3680043.8.498.37040910196459054543310335064167212742,English,Effusion,1,explicit_positive,1.0,direct_agreement,Joint effusion,True,,gemma4:e4b,112.869
+2064,1.2.826.0.1.3680043.8.498.37040910196459054543310335064167212742,English,Fracture,1,explicit_positive,1.0,direct_agreement,Subchondral fracture over posterior aspect of medial tibial plateau,True,,gemma4:e4b,112.869
+2064,1.2.826.0.1.3680043.8.498.37040910196459054543310335064167212742,English,Lateral Meniscus,1,explicit_positive,1.0,direct_agreement,suspect posterior root tear of lateral meniscus.,True,,gemma4:e4b,112.869
+2064,1.2.826.0.1.3680043.8.498.37040910196459054543310335064167212742,English,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,112.869
+2064,1.2.826.0.1.3680043.8.498.37040910196459054543310335064167212742,English,MCL,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Grade 2 injury of MCL (especially at the deep MCL/meniscofemoral ligament).,True,,gemma4:e4b,112.869
+2064,1.2.826.0.1.3680043.8.498.37040910196459054543310335064167212742,English,Medial Meniscus,1,explicit_positive,1.0,direct_agreement,Meniscal tear in the body and posterior horn of medial meniscus;,True,,gemma4:e4b,112.869
+2064,1.2.826.0.1.3680043.8.498.37040910196459054543310335064167212742,English,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,112.869
+2064,1.2.826.0.1.3680043.8.498.37040910196459054543310335064167212742,English,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,112.869
+2064,1.2.826.0.1.3680043.8.498.37040910196459054543310335064167212742,English,Synovitis,1,explicit_positive,1.0,direct_agreement,Synovitis of left knee with suprapatellar bursitis and patellar plicae.,True,,gemma4:e4b,112.869
+2076,1.2.826.0.1.3680043.8.498.37392127307867238524251864751713143683,Croatian,ACL,0,indeterminate,,indeterminate_gold_0,moguće stanje nakon distenzije ili manje parcijalne rupture,True,,gemma4:e4b,119.825
+2076,1.2.826.0.1.3680043.8.498.37392127307867238524251864751713143683,Croatian,Baker's,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Baker cista veličine oko 22x12x27 mm (APxLLxCC).,True,,gemma4:e4b,119.825
+2076,1.2.826.0.1.3680043.8.498.37392127307867238524251864751713143683,Croatian,Contusion,1,explicit_positive,1.0,direct_agreement,Opsežan okolni koštani edem.,True,,gemma4:e4b,119.825
+2076,1.2.826.0.1.3680043.8.498.37392127307867238524251864751713143683,Croatian,Effusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Manja količina izljeva suprapatelarno i u medijalnom recesusu,True,,gemma4:e4b,119.825
+2076,1.2.826.0.1.3680043.8.498.37392127307867238524251864751713143683,Croatian,Fracture,1,indeterminate,,indeterminate_gold_1,moguće u sklopu impresijske frakture.,True,,gemma4:e4b,119.825
+2076,1.2.826.0.1.3680043.8.498.37392127307867238524251864751713143683,Croatian,Lateral Meniscus,0,explicit_negative,0.0,direct_agreement,"Lateralni menisk je primjerenih intenziteta signala, bez znakova rupture.",True,,gemma4:e4b,119.825
+2076,1.2.826.0.1.3680043.8.498.37392127307867238524251864751713143683,Croatian,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,119.825
+2076,1.2.826.0.1.3680043.8.498.37392127307867238524251864751713143683,Croatian,MCL,0,explicit_negative,0.0,direct_agreement,"Medijalni kolateralni ligament je primjerenih intenziteta signala, održanog kontinuiteta.",True,,gemma4:e4b,119.825
+2076,1.2.826.0.1.3680043.8.498.37392127307867238524251864751713143683,Croatian,Medial Meniscus,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,119.825
+2076,1.2.826.0.1.3680043.8.498.37392127307867238524251864751713143683,Croatian,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,119.825
+2076,1.2.826.0.1.3680043.8.498.37392127307867238524251864751713143683,Croatian,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,119.825
+2076,1.2.826.0.1.3680043.8.498.37392127307867238524251864751713143683,Croatian,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,119.825
+2180,1.2.826.0.1.3680043.8.498.39500553372517290823815606829518305500,Spanish,ACL,0,explicit_negative,0.0,direct_agreement,Ligamentos cruzados y colaterales dentro de límites normales.,True,,gemma4:e4b,101.231
+2180,1.2.826.0.1.3680043.8.498.39500553372517290823815606829518305500,Spanish,Baker's,0,explicit_negative,0.0,direct_agreement,No hay quistes poplíteos patológicos.,True,,gemma4:e4b,101.231
+2180,1.2.826.0.1.3680043.8.498.39500553372517290823815606829518305500,Spanish,Contusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Edema óseo periférico posterior de platillo tibial lateral con pequeñas fracturas subcorticales regionales.,True,,gemma4:e4b,101.231
+2180,1.2.826.0.1.3680043.8.498.39500553372517290823815606829518305500,Spanish,Effusion,1,explicit_positive,1.0,direct_agreement,Leve a moderado derrame articular con mínima sinovitis.,True,,gemma4:e4b,101.231
+2180,1.2.826.0.1.3680043.8.498.39500553372517290823815606829518305500,Spanish,Fracture,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Edema óseo periférico posterior de platillo tibial lateral con pequeñas fracturas subcorticales regionales.,True,,gemma4:e4b,101.231
+2180,1.2.826.0.1.3680043.8.498.39500553372517290823815606829518305500,Spanish,Lateral Meniscus,1,explicit_positive,1.0,direct_agreement,"Rotura compleja degenerativa del cuerno anterior, cuerpo , cuerno posterior y raíz meniscal posterior del menisco lateral con extrusión asociada.",True,,gemma4:e4b,101.231
+2180,1.2.826.0.1.3680043.8.498.39500553372517290823815606829518305500,Spanish,Lateral OA,1,explicit_positive,1.0,direct_agreement,Úlceras condrales de espesor parcial y total de la región posterior de carga del compartimento femorotibial lateral.,True,,gemma4:e4b,101.231
+2180,1.2.826.0.1.3680043.8.498.39500553372517290823815606829518305500,Spanish,MCL,0,explicit_negative,0.0,direct_agreement,Ligamentos cruzados y colaterales dentro de límites normales.,True,,gemma4:e4b,101.231
+2180,1.2.826.0.1.3680043.8.498.39500553372517290823815606829518305500,Spanish,Medial Meniscus,0,explicit_negative,0.0,direct_agreement,"El menisco medial es de morfología y señal conservada, sin criterios categóricos de rotura.",True,,gemma4:e4b,101.231
+2180,1.2.826.0.1.3680043.8.498.39500553372517290823815606829518305500,Spanish,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,101.231
+2180,1.2.826.0.1.3680043.8.498.39500553372517290823815606829518305500,Spanish,PF OA,1,explicit_positive,1.0,direct_agreement,Úlceras condrales de espesor parcial y prácticamente total de la faceta lateral de la rótula.,True,,gemma4:e4b,101.231
+2180,1.2.826.0.1.3680043.8.498.39500553372517290823815606829518305500,Spanish,Synovitis,1,explicit_positive,1.0,direct_agreement,Leve a moderado derrame articular con mínima sinovitis.,True,,gemma4:e4b,101.231
+2255,1.2.826.0.1.3680043.8.498.41600498783384864111179175518614837125,English,ACL,1,explicit_positive,1.0,direct_agreement,"acute complete tear of the anterior cruciate ligament, at mid substance.",True,,gemma4:e4b,82.525
+2255,1.2.826.0.1.3680043.8.498.41600498783384864111179175518614837125,English,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,82.525
+2255,1.2.826.0.1.3680043.8.498.41600498783384864111179175518614837125,English,Contusion,1,explicit_positive,1.0,direct_agreement,bone contusion at the posterolateral tibial plateau.,True,,gemma4:e4b,82.525
+2255,1.2.826.0.1.3680043.8.498.41600498783384864111179175518614837125,English,Effusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Minimal amount of right knee effusion,True,,gemma4:e4b,82.525
+2255,1.2.826.0.1.3680043.8.498.41600498783384864111179175518614837125,English,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,82.525
+2255,1.2.826.0.1.3680043.8.498.41600498783384864111179175518614837125,English,Lateral Meniscus,0,explicit_positive,1.0,explicit_positive_vs_gold_0,suspicious small longitudinal vertical tear at the periphery posterior horn of the lateral meniscus.,True,,gemma4:e4b,82.525
+2255,1.2.826.0.1.3680043.8.498.41600498783384864111179175518614837125,English,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,82.525
+2255,1.2.826.0.1.3680043.8.498.41600498783384864111179175518614837125,English,MCL,0,explicit_positive,1.0,explicit_positive_vs_gold_0,"Grade II ligamentous sprain (partial tear) of the medial collateral ligament, at mid substance (deep and superficial fibers).",True,,gemma4:e4b,82.525
+2255,1.2.826.0.1.3680043.8.498.41600498783384864111179175518614837125,English,Medial Meniscus,1,explicit_positive,1.0,direct_agreement,"buckethandle tear at the anterior horn, body and posterior horn of the medial meniscus.",True,,gemma4:e4b,82.525
+2255,1.2.826.0.1.3680043.8.498.41600498783384864111179175518614837125,English,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,82.525
+2255,1.2.826.0.1.3680043.8.498.41600498783384864111179175518614837125,English,PF OA,0,explicit_negative,0.0,direct_agreement,"The patellofemoral joint, the patellar and trochlear cartilage appears congruent without chondral lesion.",True,,gemma4:e4b,82.525
+2255,1.2.826.0.1.3680043.8.498.41600498783384864111179175518614837125,English,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,82.525
+2472,1.2.826.0.1.3680043.8.498.47921753480592595198052407850568677187,Turkish,ACL,0,indeterminate,,indeterminate_gold_0,Ön çapraz bağda diffüz sinyal artışı izlendi(miksoid dejenerasyon).,True,,gemma4:e4b,81.418
+2472,1.2.826.0.1.3680043.8.498.47921753480592595198052407850568677187,Turkish,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,81.418
+2472,1.2.826.0.1.3680043.8.498.47921753480592595198052407850568677187,Turkish,Contusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,komşu kemikte yaygın ödem izlendi.,True,,gemma4:e4b,81.418
+2472,1.2.826.0.1.3680043.8.498.47921753480592595198052407850568677187,Turkish,Effusion,1,explicit_positive,1.0,direct_agreement,"Suprapatellar bursada ,diz eklemi içerisinde yaygın sıvı artışı izlendi.",True,,gemma4:e4b,81.418
+2472,1.2.826.0.1.3680043.8.498.47921753480592595198052407850568677187,Turkish,Fracture,1,explicit_positive,1.0,direct_agreement,subartiküler fraktür hattı,True,,gemma4:e4b,81.418
+2472,1.2.826.0.1.3680043.8.498.47921753480592595198052407850568677187,Turkish,Lateral Meniscus,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,81.418
+2472,1.2.826.0.1.3680043.8.498.47921753480592595198052407850568677187,Turkish,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,81.418
+2472,1.2.826.0.1.3680043.8.498.47921753480592595198052407850568677187,Turkish,MCL,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Medial kollateral ligamen çevresinde ödematöz görünüm mevcuttur ( grade I sprain ),True,,gemma4:e4b,81.418
+2472,1.2.826.0.1.3680043.8.498.47921753480592595198052407850568677187,Turkish,Medial Meniscus,1,explicit_positive,1.0,direct_agreement,Medial menisküs posterior hornda grade III dejenerasyon ve horizontal yırtık izlendi.,True,,gemma4:e4b,81.418
+2472,1.2.826.0.1.3680043.8.498.47921753480592595198052407850568677187,Turkish,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,81.418
+2472,1.2.826.0.1.3680043.8.498.47921753480592595198052407850568677187,Turkish,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,81.418
+2472,1.2.826.0.1.3680043.8.498.47921753480592595198052407850568677187,Turkish,Synovitis,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,81.418
+2480,1.2.826.0.1.3680043.8.498.48348615349418615469875801439348424274,Spanish,ACL,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,78.354
+2480,1.2.826.0.1.3680043.8.498.48348615349418615469875801439348424274,Spanish,Baker's,0,explicit_positive,1.0,explicit_positive_vs_gold_0,"Pequeño quiste poplíteo, sin signos de complicación.",True,,gemma4:e4b,78.354
+2480,1.2.826.0.1.3680043.8.498.48348615349418615469875801439348424274,Spanish,Contusion,0,explicit_negative,0.0,direct_agreement,No hay alteraciones de señal significativas de la médula ósea.,True,,gemma4:e4b,78.354
+2480,1.2.826.0.1.3680043.8.498.48348615349418615469875801439348424274,Spanish,Effusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Leve derrame articular.,True,,gemma4:e4b,78.354
+2480,1.2.826.0.1.3680043.8.498.48348615349418615469875801439348424274,Spanish,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,78.354
+2480,1.2.826.0.1.3680043.8.498.48348615349418615469875801439348424274,Spanish,Lateral Meniscus,0,explicit_negative,0.0,direct_agreement,"El menisco lateral es de morfología y señal conservada, sin signos de rotura.",True,,gemma4:e4b,78.354
+2480,1.2.826.0.1.3680043.8.498.48348615349418615469875801439348424274,Spanish,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,78.354
+2480,1.2.826.0.1.3680043.8.498.48348615349418615469875801439348424274,Spanish,MCL,1,explicit_positive,1.0,direct_agreement,Signos de un esguince grado II del componente superficial del ligamento colateral medial.,True,,gemma4:e4b,78.354
+2480,1.2.826.0.1.3680043.8.498.48348615349418615469875801439348424274,Spanish,Medial Meniscus,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,78.354
+2480,1.2.826.0.1.3680043.8.498.48348615349418615469875801439348424274,Spanish,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,78.354
+2480,1.2.826.0.1.3680043.8.498.48348615349418615469875801439348424274,Spanish,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,78.354
+2480,1.2.826.0.1.3680043.8.498.48348615349418615469875801439348424274,Spanish,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,78.354
+2502,1.2.826.0.1.3680043.8.498.48946580946665031852355005294734101132,English,ACL,1,explicit_positive,1.0,direct_agreement,High-grade partial-thickness tear of the anterior cruciate ligament.,True,,gemma4:e4b,72.185
+2502,1.2.826.0.1.3680043.8.498.48946580946665031852355005294734101132,English,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,72.185
+2502,1.2.826.0.1.3680043.8.498.48946580946665031852355005294734101132,English,Contusion,1,explicit_negative,0.0,explicit_negative_vs_gold_1,No suspicious focal marrow signal alteration.,True,,gemma4:e4b,72.185
+2502,1.2.826.0.1.3680043.8.498.48946580946665031852355005294734101132,English,Effusion,1,explicit_positive,1.0,direct_agreement,Small knee joint effusion.,True,,gemma4:e4b,72.185
+2502,1.2.826.0.1.3680043.8.498.48946580946665031852355005294734101132,English,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,72.185
+2502,1.2.826.0.1.3680043.8.498.48946580946665031852355005294734101132,English,Lateral Meniscus,0,explicit_negative,0.0,direct_agreement,The lateral meniscus is intact.,True,,gemma4:e4b,72.185
+2502,1.2.826.0.1.3680043.8.498.48946580946665031852355005294734101132,English,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,72.185
+2502,1.2.826.0.1.3680043.8.498.48946580946665031852355005294734101132,English,MCL,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Low-grade partial tear of the medial collateral ligament.,True,,gemma4:e4b,72.185
+2502,1.2.826.0.1.3680043.8.498.48946580946665031852355005294734101132,English,Medial Meniscus,0,explicit_negative,0.0,direct_agreement,The medial meniscus is intact.,True,,gemma4:e4b,72.185
+2502,1.2.826.0.1.3680043.8.498.48946580946665031852355005294734101132,English,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,72.185
+2502,1.2.826.0.1.3680043.8.498.48946580946665031852355005294734101132,English,PF OA,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Mild patellofemoral chondrosis.,True,,gemma4:e4b,72.185
+2502,1.2.826.0.1.3680043.8.498.48946580946665031852355005294734101132,English,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,72.185
+2727,1.2.826.0.1.3680043.8.498.54977581323931277817074741182670080450,Spanish,ACL,0,explicit_negative,0.0,direct_agreement,Ligamentos cruzados y colaterales dentro de límites normales.,True,,gemma4:e4b,98.866
+2727,1.2.826.0.1.3680043.8.498.54977581323931277817074741182670080450,Spanish,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,98.866
+2727,1.2.826.0.1.3680043.8.498.54977581323931277817074741182670080450,Spanish,Contusion,0,explicit_negative,0.0,direct_agreement,No hay alteraciones en significativas de la médula ósea.,True,,gemma4:e4b,98.866
+2727,1.2.826.0.1.3680043.8.498.54977581323931277817074741182670080450,Spanish,Effusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Leve derrame articular con mínima sinovitis.,True,,gemma4:e4b,98.866
+2727,1.2.826.0.1.3680043.8.498.54977581323931277817074741182670080450,Spanish,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,98.866
+2727,1.2.826.0.1.3680043.8.498.54977581323931277817074741182670080450,Spanish,Lateral Meniscus,1,explicit_positive,1.0,direct_agreement,"Rotura del cuerno anterior, cuerpo y parte del cuerno posterior del menisco lateral con edema las
+partes blandas perimeniscal es, quistes para meniscales y moderada extrusión meniscal.",True,,gemma4:e4b,98.866
+2727,1.2.826.0.1.3680043.8.498.54977581323931277817074741182670080450,Spanish,Lateral OA,0,explicit_positive,1.0,explicit_positive_vs_gold_0,"Úlceras condrales de espesor parcial y prácticamente total de la zona de carga del compartimento
+femorotibial lateral.",True,,gemma4:e4b,98.866
+2727,1.2.826.0.1.3680043.8.498.54977581323931277817074741182670080450,Spanish,MCL,0,explicit_negative,0.0,direct_agreement,Ligamentos cruzados y colaterales dentro de límites normales.,True,,gemma4:e4b,98.866
+2727,1.2.826.0.1.3680043.8.498.54977581323931277817074741182670080450,Spanish,Medial Meniscus,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,98.866
+2727,1.2.826.0.1.3680043.8.498.54977581323931277817074741182670080450,Spanish,Medial OA,0,explicit_negative,0.0,direct_agreement,"Cartílagos del compartimento femorotibial medial y de la tróclea femoral sin
+alteraciones.",True,,gemma4:e4b,98.866
+2727,1.2.826.0.1.3680043.8.498.54977581323931277817074741182670080450,Spanish,PF OA,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Condropatía rotuliana superficial la faceta lateral.,True,,gemma4:e4b,98.866
+2727,1.2.826.0.1.3680043.8.498.54977581323931277817074741182670080450,Spanish,Synovitis,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Leve derrame articular con mínima sinovitis.,True,,gemma4:e4b,98.866
+2781,1.2.826.0.1.3680043.8.498.56512564464301544960446419143135447363,English,ACL,0,explicit_negative,0.0,direct_agreement,ACL normal.,True,,gemma4:e4b,62.716
+2781,1.2.826.0.1.3680043.8.498.56512564464301544960446419143135447363,English,Baker's,0,explicit_negative,0.0,direct_agreement,No baker's cyst.,True,,gemma4:e4b,62.716
+2781,1.2.826.0.1.3680043.8.498.56512564464301544960446419143135447363,English,Contusion,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,62.716
+2781,1.2.826.0.1.3680043.8.498.56512564464301544960446419143135447363,English,Effusion,1,explicit_positive,1.0,direct_agreement,Effusion with synovitis.,True,,gemma4:e4b,62.716
+2781,1.2.826.0.1.3680043.8.498.56512564464301544960446419143135447363,English,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,62.716
+2781,1.2.826.0.1.3680043.8.498.56512564464301544960446419143135447363,English,Lateral Meniscus,0,explicit_negative,0.0,direct_agreement,Lateral meniscus normal.,True,,gemma4:e4b,62.716
+2781,1.2.826.0.1.3680043.8.498.56512564464301544960446419143135447363,English,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,62.716
+2781,1.2.826.0.1.3680043.8.498.56512564464301544960446419143135447363,English,MCL,0,explicit_negative,0.0,direct_agreement,MCL normal.,True,,gemma4:e4b,62.716
+2781,1.2.826.0.1.3680043.8.498.56512564464301544960446419143135447363,English,Medial Meniscus,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,62.716
+2781,1.2.826.0.1.3680043.8.498.56512564464301544960446419143135447363,English,Medial OA,1,explicit_positive,1.0,direct_agreement,OA of medial compartment.,True,,gemma4:e4b,62.716
+2781,1.2.826.0.1.3680043.8.498.56512564464301544960446419143135447363,English,PF OA,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,62.716
+2781,1.2.826.0.1.3680043.8.498.56512564464301544960446419143135447363,English,Synovitis,1,explicit_positive,1.0,direct_agreement,Effusion with synovitis.,True,,gemma4:e4b,62.716
+2885,1.2.826.0.1.3680043.8.498.59483999067816153759785789654766826710,Bulgarian,ACL,1,explicit_positive,1.0,direct_agreement,Скъсване на предната кръста връзка.,True,,gemma4:e4b,75.033
+2885,1.2.826.0.1.3680043.8.498.59483999067816153759785789654766826710,Bulgarian,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,75.033
+2885,1.2.826.0.1.3680043.8.498.59483999067816153759785789654766826710,Bulgarian,Contusion,1,explicit_positive,1.0,direct_agreement,Контузионен костно-мозъчен едем се визуализира и в латералния феморален кондил.,True,,gemma4:e4b,75.033
+2885,1.2.826.0.1.3680043.8.498.59483999067816153759785789654766826710,Bulgarian,Effusion,1,explicit_positive,1.0,direct_agreement,Ставен излив.,True,,gemma4:e4b,75.033
+2885,1.2.826.0.1.3680043.8.498.59483999067816153759785789654766826710,Bulgarian,Fracture,1,explicit_positive,1.0,direct_agreement,"МР данни за фрактура в областта на латералното тибиално плато, без дислокация.",True,,gemma4:e4b,75.033
+2885,1.2.826.0.1.3680043.8.498.59483999067816153759785789654766826710,Bulgarian,Lateral Meniscus,0,explicit_negative,0.0,direct_agreement,Менискуси – без особености.,True,,gemma4:e4b,75.033
+2885,1.2.826.0.1.3680043.8.498.59483999067816153759785789654766826710,Bulgarian,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,75.033
+2885,1.2.826.0.1.3680043.8.498.59483999067816153759785789654766826710,Bulgarian,MCL,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,75.033
+2885,1.2.826.0.1.3680043.8.498.59483999067816153759785789654766826710,Bulgarian,Medial Meniscus,0,explicit_negative,0.0,direct_agreement,Менискуси – без особености.,True,,gemma4:e4b,75.033
+2885,1.2.826.0.1.3680043.8.498.59483999067816153759785789654766826710,Bulgarian,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,75.033
+2885,1.2.826.0.1.3680043.8.498.59483999067816153759785789654766826710,Bulgarian,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,75.033
+2885,1.2.826.0.1.3680043.8.498.59483999067816153759785789654766826710,Bulgarian,Synovitis,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,75.033
+2981,1.2.826.0.1.3680043.8.498.62465595376489211274225312453216559395,English,ACL,1,explicit_positive,1.0,direct_agreement,Complete rupture of the ACL.,True,,gemma4:e4b,69.824
+2981,1.2.826.0.1.3680043.8.498.62465595376489211274225312453216559395,English,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,69.824
+2981,1.2.826.0.1.3680043.8.498.62465595376489211274225312453216559395,English,Contusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Tiny bone bruise at the posterior aspect of the lateral tibial plateau.,True,,gemma4:e4b,69.824
+2981,1.2.826.0.1.3680043.8.498.62465595376489211274225312453216559395,English,Effusion,1,explicit_positive,1.0,direct_agreement,Small joint effusion.,True,,gemma4:e4b,69.824
+2981,1.2.826.0.1.3680043.8.498.62465595376489211274225312453216559395,English,Fracture,1,explicit_positive,1.0,direct_agreement,Subchondral fracture in the lateral tibial plateau extending for an AP dimension of 2.7 cm with underlying bony edema.,True,,gemma4:e4b,69.824
+2981,1.2.826.0.1.3680043.8.498.62465595376489211274225312453216559395,English,Lateral Meniscus,0,explicit_negative,0.0,direct_agreement,No lateral meniscal tear.,True,,gemma4:e4b,69.824
+2981,1.2.826.0.1.3680043.8.498.62465595376489211274225312453216559395,English,Lateral OA,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,69.824
+2981,1.2.826.0.1.3680043.8.498.62465595376489211274225312453216559395,English,MCL,1,explicit_positive,1.0,direct_agreement,Complete rupture of the MCL at the level of the medial jointline.,True,,gemma4:e4b,69.824
+2981,1.2.826.0.1.3680043.8.498.62465595376489211274225312453216559395,English,Medial Meniscus,1,explicit_positive,1.0,direct_agreement,Vertical tear in the periphery of the posterior horn of the medial meniscus.,True,,gemma4:e4b,69.824
+2981,1.2.826.0.1.3680043.8.498.62465595376489211274225312453216559395,English,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,69.824
+2981,1.2.826.0.1.3680043.8.498.62465595376489211274225312453216559395,English,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,69.824
+2981,1.2.826.0.1.3680043.8.498.62465595376489211274225312453216559395,English,Synovitis,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,69.824
+2982,1.2.826.0.1.3680043.8.498.62549354677638403845904556149868367236,Dutch,ACL,1,explicit_positive,1.0,direct_agreement,Volledige ruptuur van de voorste kruisband,True,,gemma4:e4b,77.433
+2982,1.2.826.0.1.3680043.8.498.62549354677638403845904556149868367236,Dutch,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,77.433
+2982,1.2.826.0.1.3680043.8.498.62549354677638403845904556149868367236,Dutch,Contusion,1,explicit_positive,1.0,direct_agreement,Minstens botcontusie,True,,gemma4:e4b,77.433
+2982,1.2.826.0.1.3680043.8.498.62549354677638403845904556149868367236,Dutch,Effusion,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,77.433
+2982,1.2.826.0.1.3680043.8.498.62549354677638403845904556149868367236,Dutch,Fracture,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Impactiefractuur op centraal dragende deel van de laterale femorale condylen,True,,gemma4:e4b,77.433
+2982,1.2.826.0.1.3680043.8.498.62549354677638403845904556149868367236,Dutch,Lateral Meniscus,1,explicit_negative,0.0,explicit_negative_vs_gold_1,Normaal voorkomen menisci,True,,gemma4:e4b,77.433
+2982,1.2.826.0.1.3680043.8.498.62549354677638403845904556149868367236,Dutch,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,77.433
+2982,1.2.826.0.1.3680043.8.498.62549354677638403845904556149868367236,Dutch,MCL,1,explicit_positive,1.0,direct_agreement,Parti ële scheur proximaal op het mediale collaterale ligament,True,,gemma4:e4b,77.433
+2982,1.2.826.0.1.3680043.8.498.62549354677638403845904556149868367236,Dutch,Medial Meniscus,0,explicit_negative,0.0,direct_agreement,Normaal voorkomen menisci,True,,gemma4:e4b,77.433
+2982,1.2.826.0.1.3680043.8.498.62549354677638403845904556149868367236,Dutch,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,77.433
+2982,1.2.826.0.1.3680043.8.498.62549354677638403845904556149868367236,Dutch,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,77.433
+2982,1.2.826.0.1.3680043.8.498.62549354677638403845904556149868367236,Dutch,Synovitis,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,77.433
+3051,1.2.826.0.1.3680043.8.498.64408609256163127278435484217683272910,Croatian,ACL,0,indeterminate,,indeterminate_gold_0,"Prednji križni ligament održanog kontinuiteta, umjereno do teško degenerativno promijenjen.",True,,gemma4:e4b,104.248
+3051,1.2.826.0.1.3680043.8.498.64408609256163127278435484217683272910,Croatian,Baker's,1,explicit_positive,1.0,direct_agreement,Baker cista veličine 22x31x37 mm (apxllxcc).,True,,gemma4:e4b,104.248
+3051,1.2.826.0.1.3680043.8.498.64408609256163127278435484217683272910,Croatian,Contusion,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,104.248
+3051,1.2.826.0.1.3680043.8.498.64408609256163127278435484217683272910,Croatian,Effusion,1,explicit_positive,1.0,direct_agreement,Manja količina izljeva u zglob.,True,,gemma4:e4b,104.248
+3051,1.2.826.0.1.3680043.8.498.64408609256163127278435484217683272910,Croatian,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,104.248
+3051,1.2.826.0.1.3680043.8.498.64408609256163127278435484217683272910,Croatian,Lateral Meniscus,0,explicit_negative,0.0,direct_agreement,Lateralni menisk bez znakova rupture blaže degenerativno promijenjen u prednjem rogu i prednjem korijenu.,True,,gemma4:e4b,104.248
+3051,1.2.826.0.1.3680043.8.498.64408609256163127278435484217683272910,Croatian,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,104.248
+3051,1.2.826.0.1.3680043.8.498.64408609256163127278435484217683272910,Croatian,MCL,0,explicit_negative,0.0,direct_agreement,"Lateralni i medijalni kolateralni ligamenti su primjerenih intenziteta signala, održanog kontinuiteta.",True,,gemma4:e4b,104.248
+3051,1.2.826.0.1.3680043.8.498.64408609256163127278435484217683272910,Croatian,Medial Meniscus,1,explicit_positive,1.0,direct_agreement,"Degenerativno promijenjenmedijalni menisk, osobito u području trupa i stražnjeg roga gdje se prati kompleksna ruptura s radijalnom i horizontalnom komponentom koja se pruža prema femoralnoj plohi.",True,,gemma4:e4b,104.248
+3051,1.2.826.0.1.3680043.8.498.64408609256163127278435484217683272910,Croatian,Medial OA,1,explicit_positive,1.0,direct_agreement,Obzirom erozivne promjene zglobne hrskavice medijalnog kompartmenta femorotibijalnog zgloba opisano vjerojatno u sklopu OA promjena.,True,,gemma4:e4b,104.248
+3051,1.2.826.0.1.3680043.8.498.64408609256163127278435484217683272910,Croatian,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,104.248
+3051,1.2.826.0.1.3680043.8.498.64408609256163127278435484217683272910,Croatian,Synovitis,1,explicit_positive,1.0,direct_agreement,Burzitis tetive popliteusa.,True,,gemma4:e4b,104.248
+3064,1.2.826.0.1.3680043.8.498.64703506772167798469048460791472465039,English,ACL,0,explicit_positive,1.0,explicit_positive_vs_gold_0,"The distal bony avulsion with laxity of the ACL, showing some internal high T2 signal changes compatible with additional low-grade partial ligamentous tear.",True,,gemma4:e4b,133.065
+3064,1.2.826.0.1.3680043.8.498.64703506772167798469048460791472465039,English,Baker's,0,explicit_negative,0.0,direct_agreement,None.,True,,gemma4:e4b,133.065
+3064,1.2.826.0.1.3680043.8.498.64703506772167798469048460791472465039,English,Contusion,1,explicit_positive,1.0,direct_agreement,Small mildly displaced avulsion fracture of the lateral corner of lateral tibial plateau [Segond fracture].,True,,gemma4:e4b,133.065
+3064,1.2.826.0.1.3680043.8.498.64703506772167798469048460791472465039,English,Effusion,1,explicit_positive,1.0,direct_agreement,Large joint effusion.,True,,gemma4:e4b,133.065
+3064,1.2.826.0.1.3680043.8.498.64703506772167798469048460791472465039,English,Fracture,1,explicit_positive,1.0,direct_agreement,"Known mildly comminuted undisplaced avulsion fracture of the tibial tuberosity involving the distal ACL insertion, anteriorly the anterior horn root insertion of the lateral meniscus, as well as posteriorly the tibial insertion of both the posterior horn of medial and lateral menisci. The fracture involves the central portion of the medial tibial plateau articular surface anteriorly and posteriorly with articular surface collapse of 3 mm anteriorly and 5 mm posteriorly, as well as a step deformity of up to 2 mm posteriorly.",True,,gemma4:e4b,133.065
+3064,1.2.826.0.1.3680043.8.498.64703506772167798469048460791472465039,English,Lateral Meniscus,1,explicit_positive,1.0,direct_agreement,Evidence of small Wrisberg rip-type longitudinal tear of the periphery of the posterior horn.,True,,gemma4:e4b,133.065
+3064,1.2.826.0.1.3680043.8.498.64703506772167798469048460791472465039,English,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,133.065
+3064,1.2.826.0.1.3680043.8.498.64703506772167798469048460791472465039,English,MCL,1,explicit_positive,1.0,direct_agreement,Complete tear of the superficial portion at the mid to distal third.,True,,gemma4:e4b,133.065
+3064,1.2.826.0.1.3680043.8.498.64703506772167798469048460791472465039,English,Medial Meniscus,1,explicit_positive,1.0,direct_agreement,"Mild nonspecific signal changes of the meniscal body, with evidence of small horizontal oblique tear extending to the femoral surface.",True,,gemma4:e4b,133.065
+3064,1.2.826.0.1.3680043.8.498.64703506772167798469048460791472465039,English,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,133.065
+3064,1.2.826.0.1.3680043.8.498.64703506772167798469048460791472465039,English,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,133.065
+3064,1.2.826.0.1.3680043.8.498.64703506772167798469048460791472465039,English,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,133.065
+3095,1.2.826.0.1.3680043.8.498.65708905118633339771181857781063784327,English,ACL,0,explicit_negative,0.0,direct_agreement,anterior cruciate ligament is intact.,True,,gemma4:e4b,96.521
+3095,1.2.826.0.1.3680043.8.498.65708905118633339771181857781063784327,English,Baker's,1,explicit_positive,1.0,direct_agreement,A 1.5*1.5* 4.5 cm baker's cyst at the posteromedial aspect of left knee.,True,,gemma4:e4b,96.521
+3095,1.2.826.0.1.3680043.8.498.65708905118633339771181857781063784327,English,Contusion,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,96.521
+3095,1.2.826.0.1.3680043.8.498.65708905118633339771181857781063784327,English,Effusion,1,explicit_positive,1.0,direct_agreement,Some amount of left knee effusion with synovitis is present.,True,,gemma4:e4b,96.521
+3095,1.2.826.0.1.3680043.8.498.65708905118633339771181857781063784327,English,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,96.521
+3095,1.2.826.0.1.3680043.8.498.65708905118633339771181857781063784327,English,Lateral Meniscus,1,indeterminate,,indeterminate_gold_1,Suspected small horizontal tear at the anterior horn of the lateral meniscus.,True,,gemma4:e4b,96.521
+3095,1.2.826.0.1.3680043.8.498.65708905118633339771181857781063784327,English,Lateral OA,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,96.521
+3095,1.2.826.0.1.3680043.8.498.65708905118633339771181857781063784327,English,MCL,0,explicit_negative,0.0,direct_agreement,The medial collateral ligament complexes are intact.,True,,gemma4:e4b,96.521
+3095,1.2.826.0.1.3680043.8.498.65708905118633339771181857781063784327,English,Medial Meniscus,1,explicit_positive,1.0,direct_agreement,radial tear at the posterior root of the medial meniscus,True,,gemma4:e4b,96.521
+3095,1.2.826.0.1.3680043.8.498.65708905118633339771181857781063784327,English,Medial OA,1,explicit_positive,1.0,direct_agreement,diffuse high grade and low grade chondrosis (less than and more than 50% thickness cartilage loss) along weightbaring medial femoral condyle and medial tibial plateau,True,,gemma4:e4b,96.521
+3095,1.2.826.0.1.3680043.8.498.65708905118633339771181857781063784327,English,PF OA,1,explicit_positive,1.0,direct_agreement,"diffuse low grade and high grade chondrosis (less than and more than 50% thickness cartilage loss) along medial and lateral trochleas, medial and lateral patellar facets",True,,gemma4:e4b,96.521
+3095,1.2.826.0.1.3680043.8.498.65708905118633339771181857781063784327,English,Synovitis,1,explicit_positive,1.0,direct_agreement,Some amount of left knee effusion with synovitis is present.,True,,gemma4:e4b,96.521
+3147,1.2.826.0.1.3680043.8.498.67188121544063723837669983597453941774,Turkish,ACL,1,indeterminate,,indeterminate_gold_1,"ACL'de parsiyel rüptürü düşündüren devamsızlık, trasesinde sinyal-kalınlık artışı izlenmiştir.",True,,gemma4:e4b,73.4
+3147,1.2.826.0.1.3680043.8.498.67188121544063723837669983597453941774,Turkish,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,73.4
+3147,1.2.826.0.1.3680043.8.498.67188121544063723837669983597453941774,Turkish,Contusion,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,73.4
+3147,1.2.826.0.1.3680043.8.498.67188121544063723837669983597453941774,Turkish,Effusion,1,explicit_positive,1.0,direct_agreement,"Suprapatellar bursada, diz eklem kapsülünde artmış efüzyon mevcuttur.",True,,gemma4:e4b,73.4
+3147,1.2.826.0.1.3680043.8.498.67188121544063723837669983597453941774,Turkish,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,73.4
+3147,1.2.826.0.1.3680043.8.498.67188121544063723837669983597453941774,Turkish,Lateral Meniscus,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,73.4
+3147,1.2.826.0.1.3680043.8.498.67188121544063723837669983597453941774,Turkish,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,73.4
+3147,1.2.826.0.1.3680043.8.498.67188121544063723837669983597453941774,Turkish,MCL,0,explicit_negative,0.0,direct_agreement,Lateral ve medial kollateral ligaman normaldir.,True,,gemma4:e4b,73.4
+3147,1.2.826.0.1.3680043.8.498.67188121544063723837669983597453941774,Turkish,Medial Meniscus,1,explicit_positive,1.0,direct_agreement,Medial menisküs posterior hornda radial yırtık hattı izlenmiştir.,True,,gemma4:e4b,73.4
+3147,1.2.826.0.1.3680043.8.498.67188121544063723837669983597453941774,Turkish,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,73.4
+3147,1.2.826.0.1.3680043.8.498.67188121544063723837669983597453941774,Turkish,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,73.4
+3147,1.2.826.0.1.3680043.8.498.67188121544063723837669983597453941774,Turkish,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,73.4
+3240,1.2.826.0.1.3680043.8.498.69392348385274125385290015404144639002,Spanish,ACL,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,54.153
+3240,1.2.826.0.1.3680043.8.498.69392348385274125385290015404144639002,Spanish,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,54.153
+3240,1.2.826.0.1.3680043.8.498.69392348385274125385290015404144639002,Spanish,Contusion,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,54.153
+3240,1.2.826.0.1.3680043.8.498.69392348385274125385290015404144639002,Spanish,Effusion,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,54.153
+3240,1.2.826.0.1.3680043.8.498.69392348385274125385290015404144639002,Spanish,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,54.153
+3240,1.2.826.0.1.3680043.8.498.69392348385274125385290015404144639002,Spanish,Lateral Meniscus,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,54.153
+3240,1.2.826.0.1.3680043.8.498.69392348385274125385290015404144639002,Spanish,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,54.153
+3240,1.2.826.0.1.3680043.8.498.69392348385274125385290015404144639002,Spanish,MCL,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,54.153
+3240,1.2.826.0.1.3680043.8.498.69392348385274125385290015404144639002,Spanish,Medial Meniscus,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,54.153
+3240,1.2.826.0.1.3680043.8.498.69392348385274125385290015404144639002,Spanish,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,54.153
+3240,1.2.826.0.1.3680043.8.498.69392348385274125385290015404144639002,Spanish,PF OA,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,54.153
+3240,1.2.826.0.1.3680043.8.498.69392348385274125385290015404144639002,Spanish,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,54.153
+3376,1.2.826.0.1.3680043.8.498.72853333220043794904856138561095171921,English,ACL,0,explicit_negative,0.0,direct_agreement,No tear.,True,,gemma4:e4b,66.172
+3376,1.2.826.0.1.3680043.8.498.72853333220043794904856138561095171921,English,Baker's,0,explicit_negative,0.0,direct_agreement,No Baker's cyst.,True,,gemma4:e4b,66.172
+3376,1.2.826.0.1.3680043.8.498.72853333220043794904856138561095171921,English,Contusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,likely a contusion.,True,,gemma4:e4b,66.172
+3376,1.2.826.0.1.3680043.8.498.72853333220043794904856138561095171921,English,Effusion,0,explicit_negative,0.0,direct_agreement,No joint effusion.,True,,gemma4:e4b,66.172
+3376,1.2.826.0.1.3680043.8.498.72853333220043794904856138561095171921,English,Fracture,0,explicit_negative,0.0,direct_agreement,No acute fracture.,True,,gemma4:e4b,66.172
+3376,1.2.826.0.1.3680043.8.498.72853333220043794904856138561095171921,English,Lateral Meniscus,0,explicit_negative,0.0,direct_agreement,No tear.,True,,gemma4:e4b,66.172
+3376,1.2.826.0.1.3680043.8.498.72853333220043794904856138561095171921,English,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,66.172
+3376,1.2.826.0.1.3680043.8.498.72853333220043794904856138561095171921,English,MCL,1,explicit_positive,1.0,direct_agreement,Grade 2 medial collateral ligament (MCL) sprain.,True,,gemma4:e4b,66.172
+3376,1.2.826.0.1.3680043.8.498.72853333220043794904856138561095171921,English,Medial Meniscus,0,explicit_negative,0.0,direct_agreement,No tear.,True,,gemma4:e4b,66.172
+3376,1.2.826.0.1.3680043.8.498.72853333220043794904856138561095171921,English,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,66.172
+3376,1.2.826.0.1.3680043.8.498.72853333220043794904856138561095171921,English,PF OA,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Mild patellofemoral compartment chondrosis.,True,,gemma4:e4b,66.172
+3376,1.2.826.0.1.3680043.8.498.72853333220043794904856138561095171921,English,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,66.172
+3412,1.2.826.0.1.3680043.8.498.73527530686853911124431549317032662220,English,ACL,1,indeterminate,,indeterminate_gold_1,C/W ACL tear.,True,,gemma4:e4b,117.748
+3412,1.2.826.0.1.3680043.8.498.73527530686853911124431549317032662220,English,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,117.748
+3412,1.2.826.0.1.3680043.8.498.73527530686853911124431549317032662220,English,Contusion,1,explicit_positive,1.0,direct_agreement,Bone contusion in right distal femur and proximal tibia,True,,gemma4:e4b,117.748
+3412,1.2.826.0.1.3680043.8.498.73527530686853911124431549317032662220,English,Effusion,1,explicit_positive,1.0,direct_agreement,Moderate joint effsuion and synovitis of right knee and patellar plicae.,True,,gemma4:e4b,117.748
+3412,1.2.826.0.1.3680043.8.498.73527530686853911124431549317032662220,English,Fracture,1,indeterminate,,indeterminate_gold_1,R/O subchondral fracture of lateral femoral condyle.,True,,gemma4:e4b,117.748
+3412,1.2.826.0.1.3680043.8.498.73527530686853911124431549317032662220,English,Lateral Meniscus,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,117.748
+3412,1.2.826.0.1.3680043.8.498.73527530686853911124431549317032662220,English,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,117.748
+3412,1.2.826.0.1.3680043.8.498.73527530686853911124431549317032662220,English,MCL,0,explicit_negative,0.0,direct_agreement,Both medial & lateral collateral ligaments appear to be within normal.,True,,gemma4:e4b,117.748
+3412,1.2.826.0.1.3680043.8.498.73527530686853911124431549317032662220,English,Medial Meniscus,0,indeterminate,,indeterminate_gold_0,R/O Ramp lesion or peripheral longitudinal tear of posterior horn of medial meniscus.,True,,gemma4:e4b,117.748
+3412,1.2.826.0.1.3680043.8.498.73527530686853911124431549317032662220,English,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,117.748
+3412,1.2.826.0.1.3680043.8.498.73527530686853911124431549317032662220,English,PF OA,1,explicit_positive,1.0,direct_agreement,Grade 3-4 chondromalacia and mild subchondral edema of femoral trochlea(Srs/Img: [ID].,True,,gemma4:e4b,117.748
+3412,1.2.826.0.1.3680043.8.498.73527530686853911124431549317032662220,English,Synovitis,0,explicit_positive,1.0,explicit_positive_vs_gold_0,"hypertrophy of the synovium, indicative of synovitis.",True,,gemma4:e4b,117.748
+3425,1.2.826.0.1.3680043.8.498.73926443729786165628848843707532839995,de,ACL,0,explicit_negative,0.0,direct_agreement,"VKB, HKB, MCL und LCL intakt und physiologisch signalgebend.",True,,gemma4:e4b,79.26
+3425,1.2.826.0.1.3680043.8.498.73926443729786165628848843707532839995,de,Baker's,0,explicit_positive,1.0,explicit_positive_vs_gold_0,"Baker-Zyste; diese bis 2 x 1,5 x CC 3,5 cm Ausdehnung.",True,,gemma4:e4b,79.26
+3425,1.2.826.0.1.3680043.8.498.73926443729786165628848843707532839995,de,Contusion,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,79.26
+3425,1.2.826.0.1.3680043.8.498.73926443729786165628848843707532839995,de,Effusion,1,explicit_positive,1.0,direct_agreement,Geringer Gelenkerguss.,True,,gemma4:e4b,79.26
+3425,1.2.826.0.1.3680043.8.498.73926443729786165628848843707532839995,de,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,79.26
+3425,1.2.826.0.1.3680043.8.498.73926443729786165628848843707532839995,de,Lateral Meniscus,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,79.26
+3425,1.2.826.0.1.3680043.8.498.73926443729786165628848843707532839995,de,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,79.26
+3425,1.2.826.0.1.3680043.8.498.73926443729786165628848843707532839995,de,MCL,0,explicit_negative,0.0,direct_agreement,"VKB, HKB, MCL und LCL intakt und physiologisch signalgebend.",True,,gemma4:e4b,79.26
+3425,1.2.826.0.1.3680043.8.498.73926443729786165628848843707532839995,de,Medial Meniscus,1,indeterminate,,indeterminate_gold_1,"T2-hyperintense lineare radiale Läsion der Pars intermedia des Innenmeniskus mit inkompletter Separation eines kleinen Lappens (3/7, 5/109-110).",True,,gemma4:e4b,79.26
+3425,1.2.826.0.1.3680043.8.498.73926443729786165628848843707532839995,de,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,79.26
+3425,1.2.826.0.1.3680043.8.498.73926443729786165628848843707532839995,de,PF OA,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,79.26
+3425,1.2.826.0.1.3680043.8.498.73926443729786165628848843707532839995,de,Synovitis,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,79.26
+3470,1.2.826.0.1.3680043.8.498.75187434248356774277526985329346125190,Bulgarian,ACL,1,explicit_positive,1.0,direct_agreement,Пълна руптура на предна кръстна връзка.,True,,gemma4:e4b,101.005
+3470,1.2.826.0.1.3680043.8.498.75187434248356774277526985329346125190,Bulgarian,Baker's,1,explicit_positive,1.0,direct_agreement,Наличие на малка еднокамерна Бекерова киста в поплитеалната ямка с размер 17/12 мм.,True,,gemma4:e4b,101.005
+3470,1.2.826.0.1.3680043.8.498.75187434248356774277526985329346125190,Bulgarian,Contusion,1,explicit_positive,1.0,direct_agreement,Травматичен костно-мозъчен едем.,True,,gemma4:e4b,101.005
+3470,1.2.826.0.1.3680043.8.498.75187434248356774277526985329346125190,Bulgarian,Effusion,1,explicit_positive,1.0,direct_agreement,МР данни за ставен излив.,True,,gemma4:e4b,101.005
+3470,1.2.826.0.1.3680043.8.498.75187434248356774277526985329346125190,Bulgarian,Fracture,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Изобразява се остеохондрална фрактура в областта на медиалния кондил на бедрената кост.,True,,gemma4:e4b,101.005
+3470,1.2.826.0.1.3680043.8.498.75187434248356774277526985329346125190,Bulgarian,Lateral Meniscus,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Лезия в задния рог на латералния менискус – grade 2a.,True,,gemma4:e4b,101.005
+3470,1.2.826.0.1.3680043.8.498.75187434248356774277526985329346125190,Bulgarian,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,101.005
+3470,1.2.826.0.1.3680043.8.498.75187434248356774277526985329346125190,Bulgarian,MCL,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,101.005
+3470,1.2.826.0.1.3680043.8.498.75187434248356774277526985329346125190,Bulgarian,Medial Meniscus,1,explicit_positive,1.0,direct_agreement,Скъсване в заден рог на медиален менискус - grade 3.,True,,gemma4:e4b,101.005
+3470,1.2.826.0.1.3680043.8.498.75187434248356774277526985329346125190,Bulgarian,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,101.005
+3470,1.2.826.0.1.3680043.8.498.75187434248356774277526985329346125190,Bulgarian,PF OA,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,101.005
+3470,1.2.826.0.1.3680043.8.498.75187434248356774277526985329346125190,Bulgarian,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,101.005
+3556,1.2.826.0.1.3680043.8.498.77362718298550276679350855963451855003,English,ACL,0,explicit_negative,0.0,direct_agreement,ACL normal.,True,,gemma4:e4b,63.068
+3556,1.2.826.0.1.3680043.8.498.77362718298550276679350855963451855003,English,Baker's,0,explicit_negative,0.0,direct_agreement,No Baker's cyst.,True,,gemma4:e4b,63.068
+3556,1.2.826.0.1.3680043.8.498.77362718298550276679350855963451855003,English,Contusion,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,63.068
+3556,1.2.826.0.1.3680043.8.498.77362718298550276679350855963451855003,English,Effusion,1,explicit_positive,1.0,direct_agreement,Mild effusion,True,,gemma4:e4b,63.068
+3556,1.2.826.0.1.3680043.8.498.77362718298550276679350855963451855003,English,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,63.068
+3556,1.2.826.0.1.3680043.8.498.77362718298550276679350855963451855003,English,Lateral Meniscus,0,explicit_negative,0.0,direct_agreement,Lateral meniscus normal.,True,,gemma4:e4b,63.068
+3556,1.2.826.0.1.3680043.8.498.77362718298550276679350855963451855003,English,Lateral OA,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,63.068
+3556,1.2.826.0.1.3680043.8.498.77362718298550276679350855963451855003,English,MCL,0,explicit_negative,0.0,direct_agreement,MCL normal.,True,,gemma4:e4b,63.068
+3556,1.2.826.0.1.3680043.8.498.77362718298550276679350855963451855003,English,Medial Meniscus,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Medial meniscus tear,True,,gemma4:e4b,63.068
+3556,1.2.826.0.1.3680043.8.498.77362718298550276679350855963451855003,English,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,63.068
+3556,1.2.826.0.1.3680043.8.498.77362718298550276679350855963451855003,English,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,63.068
+3556,1.2.826.0.1.3680043.8.498.77362718298550276679350855963451855003,English,Synovitis,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,63.068
+3607,1.2.826.0.1.3680043.8.498.78512215519177850923279235346968676828,Croatian,ACL,0,indeterminate,,indeterminate_gold_0,Prednji križni ligament u području distalnog hvatišta pokazuje trokutasti hiperintenzitet koji može odgovarati manjoj intrasupstancijskoj rupturi.,True,,gemma4:e4b,103.887
+3607,1.2.826.0.1.3680043.8.498.78512215519177850923279235346968676828,Croatian,Baker's,0,explicit_negative,0.0,direct_agreement,Bez znakova poplitealne ciste.,True,,gemma4:e4b,103.887
+3607,1.2.826.0.1.3680043.8.498.78512215519177850923279235346968676828,Croatian,Contusion,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,103.887
+3607,1.2.826.0.1.3680043.8.498.78512215519177850923279235346968676828,Croatian,Effusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Minimalni izljev.,True,,gemma4:e4b,103.887
+3607,1.2.826.0.1.3680043.8.498.78512215519177850923279235346968676828,Croatian,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,103.887
+3607,1.2.826.0.1.3680043.8.498.78512215519177850923279235346968676828,Croatian,Lateral Meniscus,0,explicit_negative,0.0,direct_agreement,Lateralni menisk bez znakova degeneracije ili rupture.,True,,gemma4:e4b,103.887
+3607,1.2.826.0.1.3680043.8.498.78512215519177850923279235346968676828,Croatian,Lateral OA,0,explicit_positive,1.0,explicit_positive_vs_gold_0,"OA promjene obostrano, izraženije lateralno uz osteofite.",True,,gemma4:e4b,103.887
+3607,1.2.826.0.1.3680043.8.498.78512215519177850923279235346968676828,Croatian,MCL,0,explicit_negative,0.0,direct_agreement,Lateralni i medijalni kolateralni ligamenti urednog signala te se prate u kontinuitetu.,True,,gemma4:e4b,103.887
+3607,1.2.826.0.1.3680043.8.498.78512215519177850923279235346968676828,Croatian,Medial Meniscus,1,explicit_positive,1.0,direct_agreement,Vertikalna ruptura stražnjeg roga medijalnog meniska koja seže i zahvaća donju artikulacijsku plohu uz promijenjen intenzitet signala posteromedijalnog dijela zglobne čahure i meniskotibijalne sveze - ramp lezija .,True,,gemma4:e4b,103.887
+3607,1.2.826.0.1.3680043.8.498.78512215519177850923279235346968676828,Croatian,Medial OA,1,explicit_positive,1.0,direct_agreement,"OA promjene obostrano, izraženije lateralno uz osteofite.",True,,gemma4:e4b,103.887
+3607,1.2.826.0.1.3680043.8.498.78512215519177850923279235346968676828,Croatian,PF OA,1,explicit_positive,1.0,direct_agreement,"PF artrotske promjene s reduciranim zglobnim prostorom, manjim izljevom i hondromalacijom IV stupnja hrskavice interfasetarno.",True,,gemma4:e4b,103.887
+3607,1.2.826.0.1.3680043.8.498.78512215519177850923279235346968676828,Croatian,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,103.887
+3752,1.2.826.0.1.3680043.8.498.82166943552764439138333504456139890254,English,ACL,1,explicit_positive,1.0,direct_agreement,"Chronic complete tear of the anterior cruciate ligament, at mid substance.",True,,gemma4:e4b,81.674
+3752,1.2.826.0.1.3680043.8.498.82166943552764439138333504456139890254,English,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,81.674
+3752,1.2.826.0.1.3680043.8.498.82166943552764439138333504456139890254,English,Contusion,0,explicit_negative,0.0,direct_agreement,no subchondral edema,True,,gemma4:e4b,81.674
+3752,1.2.826.0.1.3680043.8.498.82166943552764439138333504456139890254,English,Effusion,1,explicit_positive,1.0,direct_agreement,Minimal amount of right knee effusion is present.,True,,gemma4:e4b,81.674
+3752,1.2.826.0.1.3680043.8.498.82166943552764439138333504456139890254,English,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,81.674
+3752,1.2.826.0.1.3680043.8.498.82166943552764439138333504456139890254,English,Lateral Meniscus,1,explicit_positive,1.0,direct_agreement,"Complex tear with buckethandle tear at the anterior horn, body and posterior horn of the lateral meniscus.",True,,gemma4:e4b,81.674
+3752,1.2.826.0.1.3680043.8.498.82166943552764439138333504456139890254,English,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,81.674
+3752,1.2.826.0.1.3680043.8.498.82166943552764439138333504456139890254,English,MCL,0,explicit_negative,0.0,direct_agreement,The medial collateral ligament complexes are intact.,True,,gemma4:e4b,81.674
+3752,1.2.826.0.1.3680043.8.498.82166943552764439138333504456139890254,English,Medial Meniscus,1,explicit_positive,1.0,direct_agreement,Complex tear (main radial component) at the body and posterior horn of the medial meniscus.,True,,gemma4:e4b,81.674
+3752,1.2.826.0.1.3680043.8.498.82166943552764439138333504456139890254,English,Medial OA,1,explicit_positive,1.0,direct_agreement,"Mild medial tibiofemoral compartmental osteoarthritis of the right knee by evidence of chondrosis, subchondral edema and osteophytes.",True,,gemma4:e4b,81.674
+3752,1.2.826.0.1.3680043.8.498.82166943552764439138333504456139890254,English,PF OA,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Focal low grade  chondrosis at the medial patellar facet (about 1.3* 1 cm).,True,,gemma4:e4b,81.674
+3752,1.2.826.0.1.3680043.8.498.82166943552764439138333504456139890254,English,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,81.674
+3911,1.2.826.0.1.3680043.8.498.86968600239724310678905311244945464037,English,ACL,1,explicit_positive,1.0,direct_agreement,Suggestive of complete tear of ACL.,True,,gemma4:e4b,74.266
+3911,1.2.826.0.1.3680043.8.498.86968600239724310678905311244945464037,English,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,74.266
+3911,1.2.826.0.1.3680043.8.498.86968600239724310678905311244945464037,English,Contusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Bone marrow edema over lateral tibial plateau.,True,,gemma4:e4b,74.266
+3911,1.2.826.0.1.3680043.8.498.86968600239724310678905311244945464037,English,Effusion,1,explicit_positive,1.0,direct_agreement,Mild to moderate knee joint effusion.,True,,gemma4:e4b,74.266
+3911,1.2.826.0.1.3680043.8.498.86968600239724310678905311244945464037,English,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,74.266
+3911,1.2.826.0.1.3680043.8.498.86968600239724310678905311244945464037,English,Lateral Meniscus,0,indeterminate,,indeterminate_gold_0,Suspected meniscocapsular separation over posterior horn of lateral meniscus.,True,,gemma4:e4b,74.266
+3911,1.2.826.0.1.3680043.8.498.86968600239724310678905311244945464037,English,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,74.266
+3911,1.2.826.0.1.3680043.8.498.86968600239724310678905311244945464037,English,MCL,0,explicit_negative,0.0,direct_agreement,"The medial & lateral collateral ligaments, quadriceps & patellar tendons show intact appearance.",True,,gemma4:e4b,74.266
+3911,1.2.826.0.1.3680043.8.498.86968600239724310678905311244945464037,English,Medial Meniscus,1,explicit_positive,1.0,direct_agreement,Tear of the posterior horn of medial meniscus.,True,,gemma4:e4b,74.266
+3911,1.2.826.0.1.3680043.8.498.86968600239724310678905311244945464037,English,Medial OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,74.266
+3911,1.2.826.0.1.3680043.8.498.86968600239724310678905311244945464037,English,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,74.266
+3911,1.2.826.0.1.3680043.8.498.86968600239724310678905311244945464037,English,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,74.266
+3956,1.2.826.0.1.3680043.8.498.88077418639301174409926781329613570435,Croatian,ACL,1,explicit_positive,1.0,direct_agreement,Potpuna ruptura prednjeg križnog ligamenta,True,,gemma4:e4b,122.468
+3956,1.2.826.0.1.3680043.8.498.88077418639301174409926781329613570435,Croatian,Baker's,1,explicit_positive,1.0,direct_agreement,Poplitealna cista promjera 5 mm.,True,,gemma4:e4b,122.468
+3956,1.2.826.0.1.3680043.8.498.88077418639301174409926781329613570435,Croatian,Contusion,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,122.468
+3956,1.2.826.0.1.3680043.8.498.88077418639301174409926781329613570435,Croatian,Effusion,1,explicit_positive,1.0,direct_agreement,uz opsežan zglobni izljev,True,,gemma4:e4b,122.468
+3956,1.2.826.0.1.3680043.8.498.88077418639301174409926781329613570435,Croatian,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,122.468
+3956,1.2.826.0.1.3680043.8.498.88077418639301174409926781329613570435,Croatian,Lateral Meniscus,1,explicit_positive,1.0,direct_agreement,Kompleksna ruptura oba meniska,True,,gemma4:e4b,122.468
+3956,1.2.826.0.1.3680043.8.498.88077418639301174409926781329613570435,Croatian,Lateral OA,1,explicit_positive,1.0,direct_agreement,erozije hrskavica lateralnog kompartmenta,True,,gemma4:e4b,122.468
+3956,1.2.826.0.1.3680043.8.498.88077418639301174409926781329613570435,Croatian,MCL,0,indeterminate,,indeterminate_gold_0,Medijalni kolateralni ligament je vretenasto zadebljan pri hvatištu na medijalni epikondil femura,True,,gemma4:e4b,122.468
+3956,1.2.826.0.1.3680043.8.498.88077418639301174409926781329613570435,Croatian,Medial Meniscus,1,explicit_positive,1.0,direct_agreement,Kompleksna ruptura oba meniska,True,,gemma4:e4b,122.468
+3956,1.2.826.0.1.3680043.8.498.88077418639301174409926781329613570435,Croatian,Medial OA,1,explicit_positive,1.0,direct_agreement,Denudacija hrskavice medijalnog kompartmenta FT zgloba,True,,gemma4:e4b,122.468
+3956,1.2.826.0.1.3680043.8.498.88077418639301174409926781329613570435,Croatian,PF OA,1,explicit_positive,1.0,direct_agreement,opsežne osteofite FP zgloba - opisano u sklopu navedenih OA promjena,True,,gemma4:e4b,122.468
+3956,1.2.826.0.1.3680043.8.498.88077418639301174409926781329613570435,Croatian,Synovitis,1,explicit_positive,1.0,direct_agreement,uz opsežan zglobni izljev i umjerenu proliferaciju sinovije,True,,gemma4:e4b,122.468
+4043,1.2.826.0.1.3680043.8.498.90283565381042081768587894596970552767,multilingual,ACL,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,68.65
+4043,1.2.826.0.1.3680043.8.498.90283565381042081768587894596970552767,multilingual,Baker's,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,68.65
+4043,1.2.826.0.1.3680043.8.498.90283565381042081768587894596970552767,multilingual,Contusion,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,68.65
+4043,1.2.826.0.1.3680043.8.498.90283565381042081768587894596970552767,multilingual,Effusion,1,explicit_positive,1.0,direct_agreement,Derrame con sinovitis,True,,gemma4:e4b,68.65
+4043,1.2.826.0.1.3680043.8.498.90283565381042081768587894596970552767,multilingual,Fracture,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,68.65
+4043,1.2.826.0.1.3680043.8.498.90283565381042081768587894596970552767,multilingual,Lateral Meniscus,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,68.65
+4043,1.2.826.0.1.3680043.8.498.90283565381042081768587894596970552767,multilingual,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,68.65
+4043,1.2.826.0.1.3680043.8.498.90283565381042081768587894596970552767,multilingual,MCL,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,68.65
+4043,1.2.826.0.1.3680043.8.498.90283565381042081768587894596970552767,multilingual,Medial Meniscus,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,68.65
+4043,1.2.826.0.1.3680043.8.498.90283565381042081768587894596970552767,multilingual,Medial OA,0,explicit_positive,1.0,explicit_positive_vs_gold_0,OA femorotibial medial,True,,gemma4:e4b,68.65
+4043,1.2.826.0.1.3680043.8.498.90283565381042081768587894596970552767,multilingual,PF OA,1,explicit_positive,1.0,direct_agreement,OA patelofemoral,True,,gemma4:e4b,68.65
+4043,1.2.826.0.1.3680043.8.498.90283565381042081768587894596970552767,multilingual,Synovitis,1,explicit_positive,1.0,direct_agreement,Derrame con sinovitis,True,,gemma4:e4b,68.65
+4187,1.2.826.0.1.3680043.8.498.94433753471890306108089557761231739312,English,ACL,0,explicit_negative,0.0,direct_agreement,Normal ACL,True,,gemma4:e4b,69.372
+4187,1.2.826.0.1.3680043.8.498.94433753471890306108089557761231739312,English,Baker's,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,69.372
+4187,1.2.826.0.1.3680043.8.498.94433753471890306108089557761231739312,English,Contusion,0,explicit_negative,0.0,direct_agreement,Normal visualized bones and surrounding soft tissues.,True,,gemma4:e4b,69.372
+4187,1.2.826.0.1.3680043.8.498.94433753471890306108089557761231739312,English,Effusion,0,explicit_negative,0.0,direct_agreement,No significant knee effusion.,True,,gemma4:e4b,69.372
+4187,1.2.826.0.1.3680043.8.498.94433753471890306108089557761231739312,English,Fracture,0,explicit_negative,0.0,direct_agreement,Normal visualized bones and surrounding soft tissues.,True,,gemma4:e4b,69.372
+4187,1.2.826.0.1.3680043.8.498.94433753471890306108089557761231739312,English,Lateral Meniscus,0,explicit_negative,0.0,direct_agreement,Normal medial and lateral menisci. No evidence of tears.,True,,gemma4:e4b,69.372
+4187,1.2.826.0.1.3680043.8.498.94433753471890306108089557761231739312,English,Lateral OA,0,explicit_negative,0.0,direct_agreement,The tibiofemoral and patellofemoral articular cartilage is normal.,True,,gemma4:e4b,69.372
+4187,1.2.826.0.1.3680043.8.498.94433753471890306108089557761231739312,English,MCL,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,69.372
+4187,1.2.826.0.1.3680043.8.498.94433753471890306108089557761231739312,English,Medial Meniscus,0,explicit_negative,0.0,direct_agreement,Normal medial and lateral menisci. No evidence of tears.,True,,gemma4:e4b,69.372
+4187,1.2.826.0.1.3680043.8.498.94433753471890306108089557761231739312,English,Medial OA,0,explicit_negative,0.0,direct_agreement,The tibiofemoral and patellofemoral articular cartilage is normal.,True,,gemma4:e4b,69.372
+4187,1.2.826.0.1.3680043.8.498.94433753471890306108089557761231739312,English,PF OA,0,explicit_negative,0.0,direct_agreement,The tibiofemoral and patellofemoral articular cartilage is normal.,True,,gemma4:e4b,69.372
+4187,1.2.826.0.1.3680043.8.498.94433753471890306108089557761231739312,English,Synovitis,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,69.372
+4302,1.2.826.0.1.3680043.8.498.97274720257634584071500649275217521662,German,ACL,1,indeterminate,,indeterminate_gold_1,wohl ligamentärer Ruptur des anteromedialen Bündels,True,,gemma4:e4b,107.35
+4302,1.2.826.0.1.3680043.8.498.97274720257634584071500649275217521662,German,Baker's,1,explicit_positive,1.0,direct_agreement,gering Flüssigkeit gefüllte Baker-Zyste,True,,gemma4:e4b,107.35
+4302,1.2.826.0.1.3680043.8.498.97274720257634584071500649275217521662,German,Contusion,1,explicit_positive,1.0,direct_agreement,verbliebenes bone bruise im posterolateralen Tibiaplateau,True,,gemma4:e4b,107.35
+4302,1.2.826.0.1.3680043.8.498.97274720257634584071500649275217521662,German,Effusion,0,explicit_positive,1.0,explicit_positive_vs_gold_0,Begleitend geringer Gelenkerguss,True,,gemma4:e4b,107.35
+4302,1.2.826.0.1.3680043.8.498.97274720257634584071500649275217521662,German,Fracture,1,not_mentioned,,not_mentioned_gold_1,,True,,gemma4:e4b,107.35
+4302,1.2.826.0.1.3680043.8.498.97274720257634584071500649275217521662,German,Lateral Meniscus,0,indeterminate,,indeterminate_gold_0,nicht sicher abgrenzbare Außenmeniskushinterhornwurzel,True,,gemma4:e4b,107.35
+4302,1.2.826.0.1.3680043.8.498.97274720257634584071500649275217521662,German,Lateral OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,107.35
+4302,1.2.826.0.1.3680043.8.498.97274720257634584071500649275217521662,German,MCL,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,107.35
+4302,1.2.826.0.1.3680043.8.498.97274720257634584071500649275217521662,German,Medial Meniscus,1,explicit_positive,1.0,direct_agreement,Innenmeniskus mit horizontalem Riss Pars intermedia bis ins Hinterhorn ziehend,True,,gemma4:e4b,107.35
+4302,1.2.826.0.1.3680043.8.498.97274720257634584071500649275217521662,German,Medial OA,0,explicit_positive,1.0,explicit_positive_vs_gold_0,"Knochenödem im medialen femorotibialen Gelenkkompartiment randständig, tibial führend, bei vorrangig Chondropathie",True,,gemma4:e4b,107.35
+4302,1.2.826.0.1.3680043.8.498.97274720257634584071500649275217521662,German,PF OA,0,not_mentioned,,not_mentioned_gold_0,,True,,gemma4:e4b,107.35
+4302,1.2.826.0.1.3680043.8.498.97274720257634584071500649275217521662,German,Synovitis,1,explicit_positive,1.0,direct_agreement,Reizsynovialitis,True,,gemma4:e4b,107.35
