@@ -1,0 +1,10 @@
+# Large datasets stay on pool1 and are linked locally.
+/data
+
+# Local experiment artifacts.
+/.cache/
+/artifacts/
+/outputs/
+/wandb/
+__pycache__/
+.ipynb_checkpoints/
